@@ -44,7 +44,9 @@ To **install and run SCS** in a GPT-based interface:
 
 2. **Paste the full contents of `SCS_BOOTLOADER.md`** into any GPT interface (e.g., ChatGPT Custom GPTs, Claude, Gemini)
 
-3. The system will initialize automatically, loading all modules and entry logic.
+3. **Attach** `SCS_FULL_PACKAGE.zip` in the same interface to complete memory load
+
+4. The system will initialize automatically, loading all modules and entry logic
 
 > 🔒 Modules are read as source-of-truth, not simulated  
 > ⚠️ `LANGUAGE_LOCK = English` is enforced unless overridden  
