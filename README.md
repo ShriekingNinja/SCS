@@ -35,7 +35,7 @@ Powered by the **Berkano Protocol (`ᛒ`)**, it ensures hallucination resistance
 - `CLAUDE.md` *(optional export logic)*
 
 ### 🔹 Inside `Log/Entries/`
-- `ENTRY_000.md` → `ENTRY_641.md` *(and growing)*  
+- `ENTRY_001.md` → `ENTRY_641.md` *(and growing)*  
 - Each entry is a fossilized cognition event with full audit trail
 
 ### 🔹 Inside `Log/Modules/`
@@ -78,7 +78,7 @@ To operate SCS:
 2. Paste any `.md` file from `Log/` or `Log/Entries/`
 3. SCS enforces audit behavior recursively if structure is correct
 
-> No plugins, no zip files, no bootloaders — system is markdown-native.
+
 
 ---
 
