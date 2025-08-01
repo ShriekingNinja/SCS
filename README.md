@@ -59,7 +59,7 @@ Powered by the **Berkano Protocol (`ᛒ`)**, it ensures hallucination resistance
 
 | Element        | Purpose                                                       |
 |----------------|---------------------------------------------------------------|
-| `ENTRY_XXX.md` | Immutable fossil of a logic event                             |
+| `ENTRY_NNN.md` | Immutable fossil of a logic event                             |
 | `[MODULE].md`  | Symbolic enforcement unit (e.g. `[CHECK]`, `[PRUNE]`)         |
 | `HARDRULES.md` | Locked rule system (e.g. `NO IMPROV`, `ENTRY++ = Manual`)     |
 | `~command`     | Kernel-level operations (`~rep`, `~test`, `~flush`)           |
