@@ -1,0 +1,46 @@
+# 🔥 Ignore Obsidian state files
+.obsidian/cache/
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/appearance.json
+.obsidian/plugins/*/node_modules/
+.obsidian/plugins/*/dist/
+
+# ✅ Allow specific config files (not the full folder)
+!.obsidian/app.json
+!.obsidian/community-plugins.json
+!.obsidian/core-plugins.json
+!.obsidian/plugins/
+!.obsidian/plugins/*/manifest.json
+!.obsidian/plugins/*/main.js
+
+# 🗑️ Ignore local trash folders
+.trash/
+**/.trash/
+
+# 🛠️ Ignore Working Copy's internal temp files
+.wc/
+*.swp
+*.tmp
+*.bak
+
+# 🧽 Ignore backup or autosave copies
+*~
+*.autosave
+
+# 🧳 Ignore archives or bundles
+*.zip
+*.tar.gz
+*.rar
+
+# 🧱 Ignore OS system files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# 🌐 Optional: ignore publish.json
+.obsidian/publish.json
+/.obsidian/**
+/Log/Old.SCS/**
