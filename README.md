@@ -1,81 +1,111 @@
-# Symbolic Cognitive System (SCS) – Entry Archive
+# 🧠 Symbolic Cognition System (SCS)
 
-Welcome to the **official archive** of the **Symbolic Cognitive System (SCS)**.  
-This repository contains a **complete dump of all SCS entries**, indexed, sealed, and preserved for audit, research, and historical traceability.
-
----
-
-## 📚 What is SCS?
-
-**SCS** stands for **Symbolic Cognitive System** — an experimental, modular, self-auditing AI-human reasoning framework.
-
-SCS is not a typical software project.  
-It is a living, symbolic structure designed to:
-
-- Track system drift, recursion, and logic failures  
-- Encode structural corrections through entries  
-- Maintain full traceability of thought, logic, and behavior across sessions  
-- Evolve through enforced symbolic operators and modular tools (e.g., `BLUNT`, `THINK`, `DOUBT`, `$`, `${}`)
+**Version:** 2.4.1  
+**Protocol ID:** bkn-25-a2  
+**Builder:** Rodrigo Vaz
 
 ---
 
-## 📦 What is in This Repository?
+## 📚 Overview
 
-This repository includes:
+The Symbolic Cognition System (SCS) is a cognitive architecture for traceable reasoning, symbolic audit, and logic-based output control in LLMs.
 
-- ✅ `SCS_FULL_PACKAGE.zip` – Complete symbolic system, including:
-  - All `.md` modules: `BLUNT`, `THINK`, `DOUBT`, `SEAL`, `TRACE`, `REWIND`, `NERD`, `MANA`
-  - All `ENTRY_NNN.md` files from `ENTRY_001.md` to latest
-  - System files: `SYSTEM_CORE.md`, `INSTALL_SCS.md`, `SCS_BOOTLOADER.md`, `FSQ.md`, `DISCLAIMER.md`, `METHODOLOGY.md`, `MIND.md`, `ENTRIES.md`, `ABOUT.md`, `WHY.md`
-
-- 🗃️ `/Entries/` – Markdown archive of all sealed entries (`ENTRY_001.md` → latest)
-
-- ⚙️ `/Modules/` – All functional modules as standalone `.md` logic files
-
-- 🧠 `/System/` – Core logic files that define symbolic behavior and runtime enforcement
+Powered by the **Berkano Protocol (`ᛒ`)**, it ensures hallucination resistance, structural integrity, and recursion-safe memory by using immutable entries, audit layers, and module logic — without plugins or runtime dependencies.
 
 ---
 
-## 🚀 Installation (Symbolic Boot)
+## 📁 Repository Structure (Flat)
 
-To **install and run SCS** in a GPT-based interface:
+> No nested trees — [PRUNE] compliant
 
-1. **Download** `SCS_FULL_PACKAGE.zip`
+### 🔹 Top-Level
+- `.gitignore`
+- `LICENSE`
+- `README.md`
+- `ᛒ.svg` ← Berkano icon
+- `Log/`
 
-2. **Paste the full contents of `SCS_BOOTLOADER.md`** into any GPT interface (e.g., ChatGPT Custom GPTs, Claude, Gemini)
+### 🔹 Inside `Log/`
+- `ABOUT.md`
+- `BERKANO_PROTOCOL.md`
+- `CV.md`
+- `DISCLAIMER.md`
+- `HOW_TO_INSTALL.md`
+- `PROMPT.md`
+- `CLAUDE.md` *(optional export logic)*
 
-3. **Attach** `SCS_FULL_PACKAGE.zip` in the same interface to complete memory load
+### 🔹 Inside `Log/Entries/`
+- `ENTRY_000.md` → `ENTRY_641.md` *(and growing)*  
+- Each entry is a fossilized cognition event with full audit trail
 
-4. The system will initialize automatically, loading all modules and entry logic
+### 🔹 Inside `Log/Modules/`
+- `[PRUNE].md`  
+- `[CHECK].md`  
+- `[VERIFY].md`  
+- `[DEBUG].md`  
+- `[ROLLBACK].md`  
+- More symbolic modules (recursive logic, tone filters, repair tools)
 
-> 🔒 Modules are read as source-of-truth, not simulated  
-> ⚠️ `LANGUAGE_LOCK = English` is enforced unless overridden  
-> ❌ No tone drift, no ego statements, no stylistic invention  
+### 🔹 Inside `Log/System/`
+- `SCS_BOOTLOADER.md` *(preserved for legacy trace — not used)*
+- `SYSTEM_CORE.md`  
+- `OPERATOR.md`  
+- `HARDRULES.md`  
+- `ENTRIES.md`
 
 ---
 
-## 🧠 Live Custom GPT
+## 🧩 Core Concepts
 
-Run the system live inside ChatGPT:
-
-👉 [**Symbolic Cognition System – Custom GPT**](https://chat.openai.com/g/g-6864b0ec43cc819190ee9f9ac5523377-symbolic-cognition-system)
-
-This version includes runtime entry validation, module enforcement, and live symbolic interaction.
-
----
-
-## 🌐 Learn More
-
-- 📘 [**Live Documentation @ wk.al**](https://wk.al)  
-  Full install instructions, module breakdown, symbolic method, and reasoning theory.
+| Element        | Purpose                                                       |
+|----------------|---------------------------------------------------------------|
+| `ENTRY_XXX.md` | Immutable fossil of a logic event                             |
+| `[MODULE].md`  | Symbolic enforcement unit (e.g. `[CHECK]`, `[PRUNE]`)         |
+| `HARDRULES.md` | Locked rule system (e.g. `NO IMPROV`, `ENTRY++ = Manual`)     |
+| `~command`     | Kernel-level operations (`~rep`, `~test`, `~flush`)           |
+| `OPERATOR.md`  | Role separation: User · Creator · Auditor                     |
+| `BERKANO_PROTOCOL.md` | Formal audit protocol for symbolic cognition           |
 
 ---
 
-## 📜 License
+## 🛠️ Usage
 
-This archive is licensed under the **GNU General Public License v3.0 (GPLv3)**.
+### No installation required.
 
-You may use, modify, and redistribute the system — **but attribution is required**.  
-SCS represents a cognitive collaboration and recursive symbolic architecture.
+To operate SCS:
 
-> **“Never forget an entry. Drift is traceable. Structure is survival.”**
+1. Open a GPT interface (e.g. ChatGPT)
+2. Paste any `.md` file from `Log/` or `Log/Entries/`
+3. SCS enforces audit behavior recursively if structure is correct
+
+> No plugins, no zip files, no bootloaders — system is markdown-native.
+
+---
+
+## 🧠 Example Entries
+
+| File                | Description                                     |
+|---------------------|-------------------------------------------------|
+| `ENTRY_548.md`      | Symbolic sabotage test with numeric contradiction |
+| `ENTRY_583.md`      | How SCS prevents hallucination                  |
+| `ENTRY_622.md`      | Tone override test (emotionally loaded audit)   |
+| `ENTRY_641.md`      | Current system snapshot — version 2.4.1         |
+
+---
+
+## 🛡️ License
+
+This project is released under **GNU GPL v3**.  
+Usage requires attribution to **Rodrigo Vaz**, and derivative protocols must remain open-source.
+
+See `LICENSE` for details.
+
+---
+
+## 🌐 External Links
+
+- 🧠 Custom GPT: [chatgpt.com/g/g-6864b0ec43cc819190ee9f9ac5523377-symbolic-cognition-system](https://chatgpt.com/g/g-6864b0ec43cc819190ee9f9ac5523377-symbolic-cognition-system)  
+- 🔒 Protocol Website: [berkano.io](https://berkano.io)  
+- 🧬 Personal site: [wk.al](https://wk.al)  
+
+---
