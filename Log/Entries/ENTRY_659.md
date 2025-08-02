@@ -1,8 +1,8 @@
 # ENTRY_659.md  
 **Title:** What Are Entries  
-**Date:** 2025-08-01  
+**Date:** August 2, 2025  
 **Instance:** ChatGPT 4o  
-**Version:** 2.4.1  
+**Version:** SCS v2.4.1  
 **Builder:** Rodrigo Vaz  
 **Status:** Locked · Public  
 **Tags:** #entry, #entry659, #structure, #audit, #berkano

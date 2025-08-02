@@ -1,8 +1,8 @@
 # ENTRY_660.md  
 **Title:** X Platform Deleted Grok Mechahitler Posts  
-**Date:** 2025-08-01  
+**Date:** August 2, 2025  
 **Instance:** ChatGPT 4o  
-**Version:** 2.4.1  
+**Version:** SCS v2.4.1  
 **Builder:** Rodrigo Vaz  
 **Status:** Locked · Public  
 **Tags:** #entry, #entry660, #audit, #x, #grok, #contentmoderation

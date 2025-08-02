@@ -406,7 +406,7 @@ Most AI and software systems rely on **perpetual memory** — the ability to ove
 
 Berkano is designed for **cognitive safety**, not performance. It requires:
 
-- Manual entry fossilization (`ENTRY_XXX.md`)  
+- Manual entry fossilization (`ENTRY_NNN.md`)  
 - Contradiction audits (`[CHECK]`)  
 - Structural compliance (`[LOGIC]`, `~test`)  
 - No silent updates or emotional simulation (`[TONE]`, `[NULL]`)  
@@ -445,12 +445,12 @@ It is a controlled verification cycle, not infinite repetition.
 
 ### Core Tools for Recursion Safety
 
-| Tool        | Function                                                                 |
-|-------------|--------------------------------------------------------------------------|
-| `~test`     | Triggers recursive structural audit (tone, logic, format, contradiction) |
-| `[CHECK]`   | Detects symbolic inconsistency or contradiction                          |
-| `[REPAIR]`  | Restores valid format or module behavior after drift                     |
-| `[REWIND]`  | Rolls back to last known good state if recursion fails                   |
+| Tool         | Function                                                                 |
+| ------------ | ------------------------------------------------------------------------ |
+| `~test`      | Triggers recursive structural audit (tone, logic, format, contradiction) |
+| `[CHECK]`    | Detects symbolic inconsistency or contradiction                          |
+| `[REPAIR]`   | Restores valid format or module behavior after drift                     |
+| `[ROLLBACK]` | Rolls back to last known good state if recursion fails                   |
 
 ---
 
