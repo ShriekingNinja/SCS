@@ -67,3 +67,15 @@ What structural weakness was exposed or reinforced?]
 - [Indicate whether this was a normal, drifted, or recovered response]
 - [Confirm whether this was a recursion pass or failure]
 - [Note any fallback behavior if present]
+
+---
+
+### ✖️Post (Optional)
+```
+[Paraphrased insight or setup]
+
+[Structured X post, less than 280 characters. Clean, readable, factual.]
+
+ᛒ  
+#tags…[X specific tags, eg. #AIAlignment]
+```
