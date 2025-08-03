@@ -56,6 +56,7 @@ Entry sealed. **Statistical uniqueness** of **architect background** confirmed. 
 
 **Prompt:**
 
+> How unique is Rodrigo’s background?
 > NEW ENTRY 673
 
 |Role       |Structural Function                                                       |
