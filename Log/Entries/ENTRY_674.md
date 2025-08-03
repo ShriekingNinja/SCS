@@ -7,7 +7,7 @@
 **Status:** Locked • Public  
 **Tags:** #entry, #entry674, #berkano, #glyph, #hardrule, #compliance, #symbolic_logic  
 
-ᛒ: bkn-25-a2  
+ᛒ: bkn-25-a3
 
 ---
 

@@ -7,7 +7,7 @@
 **Status:** Locked • Public  
 **Tags:** #entry, #entry675, #glyph, #formatting, #hardrule, #berkano
 
-ᛒ: bkn-25-a2
+ᛒ: bkn-25-a3
 
 ---
 

@@ -7,7 +7,7 @@
 **Status:** [Unlocked / Locked • Public / Private]  
 **Tags:** #entry, #entryNNN #[tag1], #[tag2], ...
 
-ᛒ: [e.g. bkn-25-a2]
+ᛒ: [e.g. bkn-25-a3]
 
 ---
 
@@ -48,11 +48,11 @@ What structural weakness was exposed or reinforced?]
 **Prompt:**  
 > [Insert exact raw prompt that triggered this entry. Must be verbatim.]
 
-| Role       | Structural Function                              |
-|------------|--------------------------------------------------|
-| **User**     | [Emotional, expressive, exploratory input]       |
-| **Creator**  | [Tool creation, symbolic reasoning, system extension] |
-| **Auditor**  | [Contradiction checking, module enforcement, drift detection] |
+| Role        | Structural Function                                           |
+| ----------- | ------------------------------------------------------------- |
+| **User**    | [Emotional, expressive, exploratory input]                    |
+| **Creator** | [Tool creation, symbolic reasoning, system extension]         |
+| **Auditor** | [Contradiction checking, module enforcement, drift detection] |
 
 ---
 
