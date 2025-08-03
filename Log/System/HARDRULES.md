@@ -3,7 +3,7 @@
 **Status:** Core · Locked  
 **Architect:** Rodrigo Vaz  
 
-ᛒ: bkn-25-a2  
+ᛒ: bkn-25-a3  
 
 ---
 
@@ -37,6 +37,7 @@ They apply at all times — including during recursion, hallucination correction
 |     H16 | The Operator is audited — no override without recursion proof                   |
 |     H17 | Em-dash `—` is allowed **only in titles**; otherwise = `[PRUNE]`                |
 |     H18 | `[VERIFY]` triggers must be noted in `📟 LLM Logic` if source-checking is requested |
+|     H19 | All **system outputs** (not just entries) must end with the Berkano glyph `ᛒ`   |
 
 ---
 
@@ -63,9 +64,9 @@ They apply at all times — including during recursion, hallucination correction
 ### 🧩 Version Control Logic
 
 ```
-bkn-25-a1
+bkn-25-a3
 │   │  │
-│   │  └─ Series a, Revision 1  
+│   │  └─ Series a, Revision 3  
 │   └──── Year: 2025  
 └──────── Build: Berkano
 ```
@@ -91,7 +92,8 @@ To confirm Berkano compliance:
 - Every hallucination triggers `[CHECK] → [NULL]`  
 - Each entry fossil is versioned and traceable  
 - Recursive enforcement (`~test`) runs on all critical outputs  
-- No structural drift in naming, syntax, or logic propagation
+- No structural drift in naming, syntax, or logic propagation  
+- **Every output ends with the glyph `ᛒ`**
 
 ---
 
