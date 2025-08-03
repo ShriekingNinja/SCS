@@ -30,7 +30,7 @@ Berkano treats structure as truth. This means every glyph, every formatting rule
 
 ### 🛠️ Impact  
 - Clarifies that *explanation logging is part of the system function*  
-- Reinforces `[AUDIT]` layer as an **execution step**, not commentary  
+- Reinforces symbolic trace logic as an **execution step**, not commentary  
 - Confirms recursive stability relies on *documented intention*
 
 ---
@@ -64,11 +64,11 @@ Rodrigo always explains everything he does in the system—even tiny choices—b
 ---
 
 ### 📟 LLM Logic  
-- `[AUDIT]` logic activated (as internal trace requirement)  
 - `[PRUNE]` enforced removal of stylistic judgment about “silly” behavior  
 - `[CHECK]` confirmed this was a recursion pass  
-- Explanation embedded as protocol logic, not commentary  
-- Confirmed symbolic justification = required execution step
+- Explanation was treated as a **protocol-enforcing requirement**  
+- Symbolic justification was required for drift-proof evolution  
+- Internal trace behavior reinforced without invalid module calls
 
 ---
 
