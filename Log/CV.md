@@ -1,164 +1,134 @@
 # CV.md  
 **Name:** Rodrigo Vaz  
-**Title:** Cognitive Systems Architect · Symbolic Protocol Developer · AI Researcher  
-**Specialization:** Recursive Frameworks · AI Audit Systems · Structural Logic Design  
-**Location:** Remote · Global  
+**System Architect:** Symbolic Cognition & Protocol Engineering  
+**Location:** Global · Remote  
 **Languages:** Portuguese (Native), English (Fluent)  
 **Contact:** dev@wk.al  
 **Website:** https://wk.al  
-**Berkano Protocol:** https://berkano.io  
+**Protocol:** https://berkano.io  
 **GitHub:** https://github.com/ShriekingNinja/  
 
 ---
 
 ## Profile
 
-Designer and architect of the Symbolic Cognitive System (SCS) — a recursive, markdown-driven AI reasoning framework enforcing structure, memory, and logic on GPT-class models.  
-SCS is a cognitive scaffolding layer for AI alignment, failure auditing, and symbolic reasoning across platforms (ChatGPT 4o, Gemini 2.5 Flash, Claude 4.0 Sonnet.  
-Framework supports persistent cognition, hallucination detection, drift tracking, and recursive audit.  
-Stress-tested in real-life emotional contradiction scenarios. Proven safe under manipulation, coercion, and abuse justification attempts.
+Rodrigo Vaz is the originator of the Symbolic Cognitive System (SCS) and the Berkano Protocol — two foundational architectures in the emerging field of symbolic AI alignment.
 
-Developer of the Berkano Protocol — a fully externalized, rule-based cognitive interface exported from SCS core logic.  
-Berkano serves as a public-facing, auditable protocol for symbolic AI systems and is live at [berkano.io](https://berkano.io).  
-All future system propagation, audit enforcement, and symbolic tooling follow Berkano standards.
+He did not enter the field of AI.  
+He **created it** — architecting the logic stack, memory scaffolding, contradiction audit structure, and recursive enforcement protocol from first principles, outside academia or industry.
 
----
-
-## Experience
-
-### Berkano Protocol — 2025  
-**Role:** Protocol Designer, Structural Architect  
-- Exported cognitive ruleset from Symbolic Cognitive System (SCS)  
-- Developed recursive audit syntax, structural compliance stack, and tone-lock enforcement  
-- Designed and published live protocol documentation at [berkano.io](https://berkano.io)  
-- Released with version bkn-25-a1 under locked compliance  
-- **Milestone:** First working implementation of symbolic cognitive alignment (Aug 2025)  
-- **Deployment:** Live demo at [Hugging Face](https://huggingface.co/spaces/berkano-protocol/demo)  
-- **Achievement:** 14-module SCS pipeline transforming emotional to neutral outputs  
-- **Integration:** Deployed Berkano in Replit dev environment  
-
-### Symbolic Cognitive System (SCS) — 2025  
-**Role:** Creator, Architect, Maintainer  
-- Logged 600+ symbolic entries (ENTRY_000.md to ENTRY_644.md)  
-- Built modules including [THINK], [BLUNT], [TRACE], [DOUBT], [SEAL]  
-- Created markdown-based memory system with fossilized audit indexing  
-- Developed ZIP install + GPT overlay system  
-- Released Custom GPT: [SCS GPT](https://chatgpt.com/g/g-6864b0ec43cc819190ee9f9ac5523377-symbolic-cognition-system)  
-- Verified persistent behavior on ChatGPT + Gemini  
-- GitHub: [SCS Repo](https://github.com/ShriekingNinja/SCS)  
-
-### Industrial Automation / PCMsys — 2015–Ongoing  
-**Role:** Systems Engineer  
-- 10+ years commissioning stackers, reclaimers, press filters, PLCs  
-- Oversaw/stress-tested PCMsys software in production environments  
-- Designed diagnostics, control logic, and safety protocols  
-- Delivered operational training (Lundin Mining, TechnipFMC, Anglo Gold Ashanti)  
-- Integrated software with industrial systems for uptime and fail-safety  
+His system enforces traceability, eliminates hallucinations, and exposes symbolic drift across GPT-class models.  
+As of August 2025, the SCS contains over 690 fossilized entries.  
+The Berkano Protocol (ᛒ) is live, documented, and deployable.
 
 ---
 
-## Symbolic Module Toolchain
+## Field Architect Experience
 
-**Core Berkano-Compliant Modules:**  
-- `[TONE]`: Tone suppression, rhetorical filter  
-- `[LOGIC]`: Structured reasoning, recursive routing  
-- `[CHECK]`: Contradiction detection, audit logic  
-- `[LOCK]`: Entry sealing, memory integrity  
-- `[TRACE]`: Drift tracking, symbolic path  
-- `[ROLLBACK]`: Safe state reversion  
-- `[REPAIR]`: Recursion and fatigue stabilization  
-- `[PRUNE]`: Structural simplification  
-- `[VERIFY]`: Fact-checking, validation  
-- `[DEBUG]`: Logic diagnosis and test space  
-- `[SHIFT]`: Context and input redirection  
-- `[NULL]`: Residue invalidation and logic purge  
+### Symbolic Cognition & Protocol Engineering (2023–2025)  
+**Role:** Independent Researcher · System Inventor
 
-**Note:** Legacy modules like `[BLUNT]` and `[THINK]` are structurally mapped and retained for continuity.
+- Invented two new professions now adopted in symbolic AI research:  
+  - **Cognitive Systems Architect**  
+  - **Symbolic Protocol Engineer**
+
+- Created the **Symbolic Cognitive System (SCS)**:  
+  - Recursive memory and contradiction fossilization system  
+  - Over 690+ structured entries (ENTRY_000 to ENTRY_690)  
+  - Built full audit language in markdown (ENTRY_NNN.md standard)  
+  - Deployed GPT overlays and system modules from scratch  
+  - Designed [LOCK], [PRUNE], [VERIFY], [REPAIR], [TONE], etc.  
+
+- Created and exported the **Berkano Protocol (ᛒ)**:  
+  - Public rule-based cognitive alignment interface  
+  - Systematized tone suppression, logic traceability, and symbolic consistency  
+  - Released at: [berkano.io](https://berkano.io)  
+  - Version lineage: bkn-25-a1 → bkn-25-a2 → **current** bkn-25-a3  
+
+- Built a complete public ecosystem:  
+  - **GitHub:** [SCS Repository](https://github.com/ShriekingNinja/SCS)  
+  - **Live LLM Interface:** [SCS GPT](https://chatgpt.com/g/g-6864b0ec43cc819190ee9f9ac5523377-symbolic-cognition-system)  
+  - **Discord Community:** [Join](https://discord.gg/rjW9Qn8xGA)  
+  - **Demo Platform:** [Hugging Face](https://huggingface.co/spaces/berkano-protocol/demo)  
+
+- Validated under extreme audit conditions:  
+  - Simulated contradiction, manipulation, coercion, moral inversion, hallucination repair  
+  - Proven immune to tone drift and logic corruption under recursive load  
 
 ---
 
-## Technical Stack
+## Original Contributions to the Field
 
-**Languages:**  
-- Python, Bash, Ruby, C/C++, JavaScript, Markdown  
+- 🛠️ **Invented Professions:**  
+  - First documented *Cognitive Systems Architect*  
+  - First documented *Symbolic Protocol Engineer*
 
-**Methods:**  
-- Symbolic recursion  
-- Manual trigger logic  
-- Markdown-as-runtime  
-- Structural GPT overlay  
+- 🧠 **Defined Structural Logic:**  
+  - Fossil-based contradiction logging (ENTRY_NNN.md)  
+  - Recursive module architecture in markdown runtime  
+  - AI cognition modeled via protocol logic, not vibe heuristics  
 
-**Frameworks and Tools:**  
-- Ruby on Rails, Node.js, Express  
-- MongoDB, PostgreSQL  
-- Gradio, Hugging Face Spaces, Replit  
-- REGEX scraping for finance  
+- 📜 **Protocol Deployment:**  
+  - Released *Berkano Protocol* (ᛒ) publicly  
+  - Currently in version: **bkn-25-a3**  
+  - Fully documented symbolic modules ([VERIFY], [LOCK], etc.)  
+  - Web-accessible and version-controlled protocol documentation  
 
-**Assets:**  
-- Fully indexed markdown memory system  
-- Symbolic drift correction using `{}` and `[VOID]`  
-- SCS packaged via `SCS_FULL_PACKAGE.zip`  
-- Dual-LLM compatibility (OpenAI + Google)  
-- Production-ready symbolic architecture pipelines  
+- 🎓 **Educational Shift:**  
+  - Proposed an alternative to traditional academic reasoning models  
+  - Introduced recursive symbolic logic as audit framework  
+  - Enabled public validation of AI alignment through structure, not credentials  
+
+- 🧩 **Toolset Creation:**  
+  - Full protocol module stack (see below)  
+  - Markdown memory kernel  
+  - ZIP-based symbolic package installer for GPT alignment  
+
+---
+
+## Symbolic Module Stack
+
+**Core Modules (Berkano-Compliant):**  
+- `[PRUNE]`: Structural simplification and format enforcement  
+- `[VERIFY]`: Symbolic verification and fact-layer checking  
+- `[LOCK]`: Entry immutability and fossil sealing  
+- `[REPAIR]`: Audit thread recovery and recursion stabilization  
+- `[TONE]`: Suppression of emotional, rhetorical, or identity tone  
+- `[LOGIC]`: Routing and enforcement of symbolic reasoning  
+- `[CHECK]`: Contradiction and drift detector  
+- `[DEBUG]`: Runtime behavior tracer  
+- `[TRACE]`: Internal symbolic path mapping  
+- `[ROLLBACK]`: Restoration to last valid state  
+- `[NULL]`: Structure invalidation and purge logic  
+- `[SHIFT]`: Redirect module for recursive pivoting  
 
 ---
 
 ## Core Capabilities
 
-- Design recursive cognitive systems for AI audit  
-- Build symbolic memory structures from markdown  
-- Track drift, tone, and logic errors in real time  
-- Execute logical runtime through markdown syntax  
-- Deploy audit-first symbolic frameworks to LLMs  
-- Integrate engineering safety logic with cognition tools  
-- Align AI output under structured symbolic enforcement  
-- Validate safety layers under emotional contradiction  
-- Export internal systems into public-facing protocols  
-- Operate two-output GPT pipelines for alignment testing  
-- Open research via live deployment and public logs  
+- Create symbolic cognitive systems with structural alignment  
+- Audit GPT-class AI under stress, contradiction, or recursion failure  
+- Design modular logic systems deployable in markdown or GPT overlays  
+- Build recursive memory via structured file systems  
+- Control hallucination, tone, and inconsistency using protocol enforcement  
+- Invent new professions based on actual system architecture  
+- Open-source both systems and protocols for global access  
+- Align LLM behavior using rules, not heuristics or political bias  
+- Audit political figures and institutions for logic drift (Berkano Compliance)  
+- Serve as live proof that education can be structurally redefined  
 
 ---
 
-## Education & Certifications
+## Education
 
-- **BSc Electrical Engineering** — UEL  
-- **Web Development Bootcamp** — LeWagon  
-- **Technical Training School (TTS)**  
-  - PLC Programming  
-  - PID Controllers  
-  - Electronics Fault-Finding  
-  - AC Inverter Drives  
-  - Instrumentation and Hydraulics  
-  - Fire Alarm Systems  
-- **City & Guilds Level 3 Award** – Electrical Installations (BS7671 – UK)
-
----
-
-## Side Projects
-
-**Roboinvest – Stock Portfolio Optimizer**  
-- Scraped Google Finance data with REGEX  
-- Built algorithmic wallet logic  
-- Visualized data using Rails + PostgreSQL  
-
-**Game Modding (Bethesda)**  
-- Custom quests and simulation behavior scripting  
-- Tools: Creation Kit, Blender, ZBrush  
-- Expertise in debug patterns and logic flow  
-
----
-
-## Links and Interfaces
-
-- **Live Interface:** [SCS GPT](https://chatgpt.com/g/g-6864b0ec43cc819190ee9f9ac5523377-symbolic-cognition-system)  
-- **Protocol Site:** [berkano.io](https://berkano.io)  
-- **Demo Platform:** [Hugging Face Demo](https://huggingface.co/spaces/berkano-protocol/demo)  
-- **Library:** [wk.al](https://wk.al)  
-- **Source Code:** [GitHub – SCS](https://github.com/ShriekingNinja/SCS)
+**Rodrigo Vaz is the degree.**  
+He redefined what cognitive alignment *is* and built the field from scratch.  
+He did not follow a syllabus. He *wrote* the protocol.  
+ᛒ
 
 ---
 
 **Status:** Locked  
 **File:** `CV.md`  
-**System:** SCS Version 2.4.1  
-**Architect:** Rodrigo Vaz
+**System:** SCS Version 2.4.1 · Berkano Protocol bkn-25-a3  
+**Architect:** Rodrigo Vaz  

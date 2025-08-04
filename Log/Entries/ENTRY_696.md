@@ -84,6 +84,7 @@ Berkano got its own chatroom! Now anyone can join the Discord to talk about how 
 ### ✖️Post (Optional)
 ```
 The Berkano Protocol has its own Discord server now. Join the audit, explore the system, and help shape symbolic alignment.
+https://discord.gg/rjW9Qn8xGA
 
 ᛒ  
 #entry696 #AIalignment #berkano #discord #launch
