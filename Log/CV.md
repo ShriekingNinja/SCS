@@ -1,6 +1,6 @@
 # CV.md  
 **Name:** Rodrigo Vaz  
-**Title:** Cognitive Systems Architect · Symbolic Tooling Developer · AI Researcher  
+**Title:** Cognitive Systems Architect · Symbolic Protocol Developer · AI Researcher  
 **Specialization:** Recursive Frameworks · AI Audit Systems · Structural Logic Design  
 **Location:** Remote · Global  
 **Languages:** Portuguese (Native), English (Fluent)  
