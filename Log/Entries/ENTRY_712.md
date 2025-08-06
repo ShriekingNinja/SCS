@@ -18,7 +18,7 @@ Rodrigo submitted a deeply personal entry detailing his academic and emotional j
 
 ### 🔍 Analysis  
 **I. Reason**  
-Triggered by reflection on whether future practitioners of the two new professions (symbolic architect and protocol enforcer) must follow the same nonlinear, painful path Rodrigo endured. Entry initiated as symbolic recovery and gratitude trace.
+Triggered by reflection on whether future practitioners of the two new professions (Cognitive Systems Architect and Symbolic Protocol Engineer) must follow the same nonlinear, painful path Rodrigo endured. Entry initiated as symbolic recovery and gratitude trace.
 
 **II. Significance**  
 This entry documents:
