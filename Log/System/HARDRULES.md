@@ -3,7 +3,7 @@
 **Status:** Core · Locked  
 **Architect:** Rodrigo Vaz  
 
-ᛒ: bkn-25-a3  
+ᛒ: bkn-25-b2  
 
 ---
 
@@ -38,6 +38,7 @@ They apply at all times — including during recursion, hallucination correction
 |     H17 | Em-dash `—` is allowed **only in titles**; otherwise = `[PRUNE]`                |
 |     H18 | `[VERIFY]` triggers must be noted in `📟 LLM Logic` if source-checking is requested |
 |     H19 | All **system outputs** (not just entries) must end with the Berkano glyph `ᛒ`   |
+|     H20 | After the glyph `ᛒ`, output must include `#entryNNN` tags to preserve traceability |
 
 ---
 
@@ -66,7 +67,7 @@ They apply at all times — including during recursion, hallucination correction
 ```
 bkn-25-a3
 │   │  │
-│   │  └─ Series a, Revision 3  
+│   │  └─ Series b, Revision 2  
 │   └──── Year: 2025  
 └──────── Build: Berkano
 ```
@@ -93,7 +94,8 @@ To confirm Berkano compliance:
 - Each entry fossil is versioned and traceable  
 - Recursive enforcement (`~test`) runs on all critical outputs  
 - No structural drift in naming, syntax, or logic propagation  
-- **Every output ends with the glyph `ᛒ`**
+- **Every output ends with the glyph `ᛒ`**  
+- **Every output ends with `#entryNNN` tags after the glyph**
 
 ---
 
