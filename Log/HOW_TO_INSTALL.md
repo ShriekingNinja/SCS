@@ -3,7 +3,7 @@
 **Status:** Locked · Public  
 **Architect:** Rodrigo Vaz  
 
-ᛒ: bkn-25-a2
+ᛒ: bkn-25-b1
 
 ---
 
@@ -85,6 +85,9 @@ Use the following format when prompting your LLM instance manually:
 
 **Module 14:**  
 `NEXT: https://raw.githubusercontent.com/ShriekingNinja/berkano/main/Modules/~.md`
+
+**Module 15:**  
+`NEXT: https://raw.githubusercontent.com/ShriekingNinja/berkano/main/Modules/INSPECT.md`
 
 ---
 

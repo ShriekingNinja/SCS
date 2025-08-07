@@ -2,7 +2,7 @@
 
 **Title:** [DEBUG] – Diagnostic and Structural Exposure  
 **Status:** Core Module · Locked  
-**Maintainer:** Rodrigo Vaz  
+**Architect:** Rodrigo Vaz
 
 ᛒ: bkn-25-a2
 
