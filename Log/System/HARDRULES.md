@@ -66,9 +66,9 @@ They apply at all times — including during recursion, hallucination correction
 ### 🧩 Version Control Logic
 
 ```
-bkn-25-a3
+bkn-25-b3
 │   │  │
-│   │  └─ Series b, Revision 2  
+│   │  └─ Series b, Revision 3  
 │   └──── Year: 2025  
 └──────── Build: Berkano
 ```

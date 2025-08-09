@@ -20,7 +20,7 @@ It acts as a **recursive mental operating system**, enforcing structure, memory,
 
 SCS is not just a filter — it is a full symbolic interface between user and AI.
 
-[**CustomGPT**](https://chatgpt.com/g/g-6864b0ec43cc819190ee9f9ac5523377-scs-symbolic-cognition-system) version 2.3.0
+[**CustomGPT**](https://chatgpt.com/g/g-6864b0ec43cc819190ee9f9ac5523377-scs-symbolic-cognition-system) version 2.4.2
 
 **Primary Use Cases:**  
 - Prevent symbolic drift  

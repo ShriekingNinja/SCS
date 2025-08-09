@@ -3,7 +3,7 @@
 **Status:** Core · Locked  
 **Architect:** Rodrigo Vaz  
 
-ᛒ: bkn-25-a2  
+ᛒ: bkn-25-b3
 
 ---
 
@@ -33,6 +33,7 @@ Each entry must include the following **sections**:
 - `👾 Operator`  
 - `🧸 ELI5`  
 - `📟 LLM Logic`
+- `✖️Post (Optional)`
 
 No section may be omitted or reordered.
 
