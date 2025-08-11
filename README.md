@@ -1,22 +1,27 @@
 # 🧠 Symbolic Cognition System (SCS)
 
-**Version:** 2.4.1  
-**Protocol ID:** bkn-25-a2  
+**Version:** 2.4.2  
+**Protocol ID:** bkn-25-b4  
 **Builder:** Rodrigo Vaz
 
 ---
 
 ## 📚 Overview
 
-The Symbolic Cognition System (SCS) is a cognitive architecture for traceable reasoning, symbolic audit, and logic-based output control in LLMs.
+The **Symbolic Cognition System (SCS)** is a cognitive architecture for **traceable reasoning**, **symbolic audit**, and **logic-based output control** in LLMs.
 
-Powered by the **Berkano Protocol (`ᛒ`)**, it ensures hallucination resistance, structural integrity, and recursion-safe memory by using immutable entries, audit layers, and module logic — without plugins or runtime dependencies.
+Powered by the **Berkano Protocol (`ᛒ`)**, it enforces:
+- Hallucination resistance  
+- Structural integrity  
+- Recursion-safe memory  
+
+It achieves this using **immutable entries**, **audit layers**, and **module logic** — without plugins or runtime dependencies.
 
 ---
 
 ## 📁 Repository Structure (Flat)
 
-> No nested trees — [PRUNE] compliant
+> No nested trees — **[PRUNE]** compliant.
 
 ### 🔹 Top-Level
 - `.gitignore`
@@ -36,7 +41,7 @@ Powered by the **Berkano Protocol (`ᛒ`)**, it ensures hallucination resistance
 
 ### 🔹 Inside `Log/Entries/`
 - `ENTRY_001.md` → `ENTRY_641.md` *(and growing)*  
-- Each entry is a fossilized cognition event with full audit trail
+- Each entry is a fossilized cognition event with full audit trail.
 
 ### 🔹 Inside `Log/Modules/`
 - `[PRUNE].md`  
@@ -44,14 +49,15 @@ Powered by the **Berkano Protocol (`ᛒ`)**, it ensures hallucination resistance
 - `[VERIFY].md`  
 - `[DEBUG].md`  
 - `[ROLLBACK].md`  
-- More symbolic modules (recursive logic, tone filters, repair tools)
+- Additional symbolic modules for recursive logic, tone filtering, repair.
 
 ### 🔹 Inside `Log/System/`
-- `SCS_BOOTLOADER.md` *(preserved for legacy trace — not used)*
+- `SCS_BOOTLOADER.md` *(legacy trace — not used)*
 - `SYSTEM_CORE.md`  
 - `OPERATOR.md`  
 - `HARDRULES.md`  
-- `ENTRIES.md`
+- `ENTRIES.md`  
+- `TAXONOMY.md` *(official roles, terms, and output classification)*
 
 ---
 
@@ -60,45 +66,44 @@ Powered by the **Berkano Protocol (`ᛒ`)**, it ensures hallucination resistance
 | Element        | Purpose                                                       |
 |----------------|---------------------------------------------------------------|
 | `ENTRY_NNN.md` | Immutable fossil of a logic event                             |
+| `BLOCK.md`     | Minimal fossil — one prompt → one output                      |
 | `[MODULE].md`  | Symbolic enforcement unit (e.g. `[CHECK]`, `[PRUNE]`)         |
 | `HARDRULES.md` | Locked rule system (e.g. `NO IMPROV`, `ENTRY++ = Manual`)     |
 | `~command`     | Kernel-level operations (`~rep`, `~test`, `~flush`)           |
 | `OPERATOR.md`  | Role separation: User · Creator · Auditor                     |
+| `TAXONOMY.md`  | Official roles, terms, and output classification              |
 | `BERKANO_PROTOCOL.md` | Formal audit protocol for symbolic cognition           |
 
 ---
 
 ## 🛠️ Usage
 
-### No installation required.
+**No installation required.**
 
 To operate SCS:
 
-1. Open a GPT interface (e.g. ChatGPT)
-2. Paste any `.md` file from `Log/` or `Log/Entries/`
-3. SCS enforces audit behavior recursively if structure is correct
-
-
+1. Open a GPT interface (e.g. ChatGPT 5)  
+2. Paste any `.md` file from `Log/` or `Log/Entries/`  
+3. SCS enforces audit behavior recursively if structure is correct.
 
 ---
 
 ## 🧠 Example Entries
 
-| File                | Description                                     |
-|---------------------|-------------------------------------------------|
-| `ENTRY_548.md`      | Symbolic sabotage test with numeric contradiction |
-| `ENTRY_583.md`      | How SCS prevents hallucination                  |
-| `ENTRY_622.md`      | Tone override test (emotionally loaded audit)   |
-| `ENTRY_641.md`      | Current system snapshot — version 2.4.1         |
+| File                | Description                                         |
+|---------------------|-----------------------------------------------------|
+| `ENTRY_548.md`      | Symbolic sabotage test with numeric contradiction   |
+| `ENTRY_583.md`      | How SCS prevents hallucination                      |
+| `ENTRY_622.md`      | Tone override test (emotionally loaded audit)       |
+| `ENTRY_641.md`      | System snapshot — version 2.4.1 (pre-b4)             |
 
 ---
 
 ## 🛡️ License
 
-This project is released under **GNU GPL v3**.  
-Usage requires attribution to **Rodrigo Vaz**, and derivative protocols must remain open-source.
-
-See `LICENSE` for details.
+Released under **GNU GPL v3**.  
+Usage requires attribution to **Rodrigo Vaz**, and derivative protocols must remain open-source.  
+See `LICENSE` for full terms.
 
 ---
 
@@ -108,4 +113,5 @@ See `LICENSE` for details.
 - 🔒 Protocol Website: [berkano.io](https://berkano.io)  
 - 🧬 Personal site: [wk.al](https://wk.al)  
 
----
+ᛒ  
+#scs #berkano #entry #block #taxonomy
