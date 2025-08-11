@@ -798,3 +798,35 @@ It ensures that all fossilized records, freeform exchanges, and system replies a
 - INTERACTION / LLM Response has no metadata, only glyph and topical tags at the end.  
 - All fossilized outputs must comply with HARDRULES H19–H21 for glyph and tag placement.  
 - Mislabeling or incorrect placement is treated as **structural drift**.
+
+---
+
+## 13. 🧩Symbol & Color Specification
+
+### 13.1 Rune Glyph
+- **Symbol:** ᛒ (Berkano rune)
+- **Type:** Rune glyph, not an icon or logo
+- **Usage:** Represents the Berkano Protocol as a structural and symbolic identity marker
+- **Orientation:** Must remain upright; no rotation, mirroring, or distortion
+
+### 13.2 Color
+- **Name:** Berkano Aqua
+- **Hex Code:** #30FED7
+- **RGB:** 48, 254, 215
+- **CMYK:** 81% Cyan, 0% Magenta, 15% Yellow, 0% Black
+- **Usage Rules:**
+  - **Primary Fill:** #30FED7 on dark backgrounds (#000000 to #111111)
+  - **Inverse Mode:** Black (#000000) fill with #30FED7 outline on light backgrounds
+  - No gradients or transparency effects
+  - Must be used consistently across all protocol-compliant documentation and visual materials
+
+### 13.3 File Format
+- Preferred format: `.svg`
+- Minimum display size: 16×16 px
+- No drop shadows, bevels, or other decorative effects
+
+### 13.4 Placement in Documents
+- **Entries:** Glyph may appear in metadata block as per `ENTRY_NNN.md` format
+- **Blocks:** Glyph appears in `[GLYPH]` section
+- **LLM Responses:** Glyph appears at the end of the output line
+- Glyph color usage in documents is symbolic; color application is primarily for branding, presentations, and public materials
