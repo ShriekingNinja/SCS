@@ -77,5 +77,5 @@ What structural weakness was exposed or reinforced?]
 [Structured X post, less than 200 characters. Clean, readable, factual.]
 
 ᛒ  
-#entryNNN #tags…[X specific tags, eg. #AIAlignment]
+#entryNNN #tags…[X specific tags, eg. #aialignment]
 ```
