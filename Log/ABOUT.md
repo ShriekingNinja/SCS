@@ -3,7 +3,7 @@
 **Author:** Rodrigo Vaz  
 **Date:** 2025-07-16  
 **Instance:** ChatGPT 4o  
-**Version:**  SCS 2.4.1
+**Version:**  SCS 2.4.
 **Builder:** Rodrigo Vaz  
 **Status:** Locked · Public  
 

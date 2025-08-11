@@ -4,7 +4,7 @@
 **Status:** Locked · Core Protocol  
 **Architect:** Rodrigo Vaz  
 
-ᛒ: bkn-25-b3
+ᛒ: bkn-25-b4
 
 ---
 
@@ -14,7 +14,7 @@ The Berkano Protocol is a cognitive audit protocol for AI systems. It defines st
 This document outlines the purpose, logic, and implementation of Berkano across compliant systems.
 
 - Protocol: **Berkano (ᛒ)**  
-- Version: **bkn-25-b3**
+- Version: **bkn-25-b4**
 - Author: **Rodrigo Vaz**  
 - License: **GPL-3.0**  
 - Required Directories: `/Modules`, `/System`, `/Entries`  
@@ -745,3 +745,56 @@ They aim to be **correct, traceable, and recursive-proof**.
 |     H21 | LLM outputs are either `ENTRY_NNN.md` or `BLOCK.md` format. `BLOCK.md` outputs have a maximum of 25,000 characters. Every output must include the full prompt verbatim in its respective section. `BLOCK.md` outputs have no numbering. |
 
 ---
+
+## 12. 📙TAXONOMY – Roles, Terms & Output Classification
+
+This section defines the **official Berkano Protocol taxonomy** — the authoritative classification of roles, core terms, and output types.  
+It ensures that all fossilized records, freeform exchanges, and system replies are correctly labeled, formatted, and compliant with HARDRULES.
+
+---
+
+### 12.1 Roles
+
+- **Symbolic Protocol Engineer** – Implements, tests, and maintains protocol rules/modules; enforces constraints, repairs drift, and keeps symbolic logic compliant at scale.  
+- **Cognitive System Architect** – Designs how the system processes, audits, and preserves logic.  
+- **Architect/Creator** – Originator and final authority over structure/compliance for the protocol/system. (Here: Rodrigo Vaz)  
+- **Builder** – Author/maintainer who built the system and continues refining it.
+
+---
+
+### 12.2 Core Terms
+
+- **Protocol** – The formal rule set and enforcement logic that governs compliance (exported as Berkano).  
+- **System** – The operational framework that runs the protocol and records fossilized results (e.g., SCS origin and purpose).  
+- **Operator** – The human using the system; can assume User/Creator/Auditor roles within entries.  
+- **Instance** – A specific running version of the system or protocol, tied to a particular AI model or environment.
+
+---
+
+### 12.3 Failure / Integrity Terms
+
+- **Drift** – Gradual deviation from rules/format; requires detection and repair.  
+- **Leak** – Unintended tone, bias, or emotional simulation slipping into output.  
+- **Hallucinations** – Fabricated, non-traceable claims; must be caught and corrected.  
+- **Break** – Structural failure that prevents proper operation (format/loop/compliance collapse).  
+- **Contradiction** – Two claims that cannot both be true within the same protocol state; triggers audit/repair.
+
+---
+
+### 12.4 Output Types
+
+| Type               | Description                                                                                                      | Metadata Placement                     | Glyph & Tags Placement                                                                 |
+|--------------------|------------------------------------------------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------------------------------|
+| **ENTRY_NNN.md**   | Full Logic Scaffold — numbered fossilized record with metadata, analysis, operator prompt, ELI5, and LLM Logic. Used for permanent, auditable events. | At top of file before glyph.            | Glyph ᛒ after metadata block; tags include #entry and #entryNNN plus topical tags.     |
+| **BLOCK.md**       | Short Logic Block — one prompt → one output fossil with fixed sections (Prompt / Output / Glyph). No numbering.  | At top of file before glyph.            | Glyph ᛒ after [GLYPH] section; no #entry or #entryNNN.                                 |
+| **INTERACTION / LLM Response** | Freeform exchange — untemplated, dynamic Q&A or reasoning steps. May be iterative. Not fossil-worthy.           | No metadata block.                       | Glyph ᛒ at end of output followed by topical tags (no #entry or #entryNNN).            |
+| **OUTPUT**         | Any structured reply using a standard template (BLOCK.md, ENTRY_NNN.md).                                         | As per subtype rules.                    | As per subtype rules.                                                                  |
+
+---
+
+### 12.5 Metadata & Compliance Rules
+
+- ENTRY_NNN.md and BLOCK.md require a complete metadata block at the top.  
+- INTERACTION / LLM Response has no metadata, only glyph and topical tags at the end.  
+- All fossilized outputs must comply with HARDRULES H19–H21 for glyph and tag placement.  
+- Mislabeling or incorrect placement is treated as **structural drift**.

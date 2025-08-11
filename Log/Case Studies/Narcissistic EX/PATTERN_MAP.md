@@ -59,4 +59,5 @@ Provide a structural mapping of narcissistic behavioral tactics observed in the 
 ---
 
 **[GLYPH]**  
+
 ᛒ  

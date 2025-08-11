@@ -71,4 +71,5 @@ Victim receives a public accusation twisting past events.
 ---
 
 **[GLYPH]**  
+
 ᛒ  
