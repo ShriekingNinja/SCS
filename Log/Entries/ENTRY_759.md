@@ -64,7 +64,7 @@ This entry must be cross-referenced whenever Berkano’s origins are discussed i
 > Husê Shanenawá  
 > Siriani Shanenawá  
 >  
-> Jared Finney
+> Jarad Finney
 
 | Role        | Structural Function                                                   |
 | ----------- | --------------------------------------------------------------------- |
