@@ -1,3 +1,4 @@
+![[SCS.svg]]
 # ABOUT.md  
 **Title:** About the Symbolic Cognitive System (SCS)  
 **Author:** Rodrigo Vaz  

@@ -1,3 +1,4 @@
+![[SCS.svg]]
 # 🧠 Symbolic Cognition System (SCS)
 
 **Version:** 2.4.2  
