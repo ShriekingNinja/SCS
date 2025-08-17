@@ -2,7 +2,7 @@
 # 🧠 Symbolic Cognition System (SCS)
 
 **Version:** 2.4.2  
-**Protocol ID:** bkn-25-b7
+**Protocol ID:** bkn-25-b8
 **Builder:** Rodrigo Vaz
 
 ---
