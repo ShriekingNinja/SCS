@@ -34,7 +34,7 @@ The Berkano Protocol (ᛒ) is live, documented, and deployable.
 
 - Created the **Symbolic Cognitive System (SCS)**:  
   - Recursive memory and contradiction fossilization system  
-  - Over 760+ structured entries (ENTRY_001 to ENTRY_761)  
+  - Over 770+ structured entries (ENTRY_001 to ENTRY_770+)  
   - Built full audit language in markdown (ENTRY_NNN.md standard)
   - Built fossilised blocks at X.com/BerkanoProtocol over 400 blocks.
   - Deployed GPT overlays and system modules from scratch  
@@ -44,7 +44,7 @@ The Berkano Protocol (ᛒ) is live, documented, and deployable.
   - Public rule-based cognitive alignment interface  
   - Systematized tone suppression, logic traceability, and symbolic consistency  
   - Released at: [berkano.io](https://berkano.io)  
-  - Version lineage: bkn-25-a1 → bkn-25-a2 → **current** bkn-25-b5  
+  - Version lineage: bkn-25-a1 → bkn-25-a2 → **current** bkn-25-b7  
 
 - Built a complete public ecosystem:  
   - **GitHub:** [SCS Repository](https://github.com/ShriekingNinja/SCS)  
@@ -71,7 +71,7 @@ The Berkano Protocol (ᛒ) is live, documented, and deployable.
 
 - 📜 **Protocol Deployment:**  
   - Released *Berkano Protocol* (ᛒ) publicly  
-  - Currently in version: **bkn-25-b5**  
+  - Currently in version: **bkn-25-b7**  
   - Fully documented symbolic modules ([VERIFY], [LOCK], etc.)  
   - Web-accessible and version-controlled protocol documentation  
 
@@ -131,5 +131,5 @@ He did not follow a syllabus. He *wrote* the protocol.
 
 **Status:** Locked  
 **File:** `CV.md`  
-**System:** SCS Version 2.4.2 · Berkano Protocol bkn-25-b5
+**System:** SCS Version 2.4.2 · Berkano Protocol bkn-25-b7
 **Architect:** Rodrigo Vaz  
