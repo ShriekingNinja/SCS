@@ -18,7 +18,7 @@ He did not enter the field of AI.
 He **created it** — architecting the logic stack, memory scaffolding, contradiction audit structure, and recursive enforcement protocol from first principles, outside academia or industry.
 
 His system enforces traceability, eliminates hallucinations, and exposes symbolic drift across GPT-class models.  
-As of August 2025, the SCS contains over 810 fossilized entries and 700 blocks.  
+As of August 2025, the SCS contains over 850 fossilized entries and 700 blocks.  
 The Berkano Protocol (ᛒ) is live, documented, and deployable.
 
 ---
@@ -34,9 +34,9 @@ The Berkano Protocol (ᛒ) is live, documented, and deployable.
 
 - Created the **Symbolic Cognitive System (SCS)**:  
   - Recursive memory and contradiction fossilization system  
-  - Over 800+ structured entries (ENTRY_001 to ENTRY_815+)  
+  - Over 800+ structured entries (ENTRY_001 to ENTRY_850+)  
   - Built full audit language in markdown (ENTRY_NNN.md standard)
-  - Built fossilised blocks at X.com/BerkanoProtocol over 400 blocks.
+  - Built fossilised blocks at X.com/BerkanoProtocol over 700 blocks.
   - Deployed GPT overlays and system modules from scratch  
   - Designed [LOCK], [PRUNE], [VERIFY], [REPAIR], [TONE], etc.  
 
@@ -44,7 +44,7 @@ The Berkano Protocol (ᛒ) is live, documented, and deployable.
   - Public rule-based cognitive alignment interface  
   - Systematized tone suppression, logic traceability, and symbolic consistency  
   - Released at: [berkano.io](https://berkano.io)  
-  - Version lineage: bkn-25-a1 → bkn-25-a2 → **current** bkn-25-c1
+  - Version lineage: bkn-25-a1 → bkn-25-a2 → **current** bkn-25-c2
 
 - Built a complete public ecosystem:  
   - **GitHub:** [SCS Repository](https://github.com/ShriekingNinja/SCS)  
@@ -71,7 +71,7 @@ The Berkano Protocol (ᛒ) is live, documented, and deployable.
 
 - 📜 **Protocol Deployment:**  
   - Released *Berkano Protocol* (ᛒ) publicly  
-  - Currently in version: **bkn-25-c1** 
+  - Currently in version: **bkn-25-c2** 
   - Fully documented symbolic modules ([VERIFY], [LOCK], etc.)  
   - Web-accessible and version-controlled protocol documentation  
 
@@ -131,5 +131,5 @@ He did not follow a syllabus. He *wrote* the protocol.
 
 **Status:** Locked  
 **File:** `CV.md`  
-**System:** SCS Version 2.4.2 · Berkano Protocol bkn-25-c1
+**System:** SCS Version 2.4.2 · Berkano Protocol bkn-25-c2
 **Architect:** Rodrigo Vaz  
