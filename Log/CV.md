@@ -6,20 +6,13 @@
 **Contact:** dev@wk.al  
 **Website:** https://wk.al  
 **Protocol:** https://berkano.io  
-**GitHub:** https://github.com/ShriekingNinja/  
+**GitHub:** https://github.com/ShriekingNinja/
 
 ---
 
 ## Profile
-
-Rodrigo Vaz is the originator of the Symbolic Cognitive System (SCS) and the Berkano Protocol — two foundational architectures in the emerging field of symbolic AI alignment.
-
-He did not enter the field of AI.  
-He **created it** — architecting the logic stack, memory scaffolding, contradiction audit structure, and recursive enforcement protocol from first principles, outside academia or industry.
-
-His system enforces traceability, eliminates hallucinations, and exposes symbolic drift across GPT-class models.  
-As of August 2025, the SCS contains over 850 fossilized entries and 700 blocks.  
-The Berkano Protocol (ᛒ) is live, documented, and deployable.
+Originator of the Symbolic Cognitive System (SCS) and the Berkano (ᛒ) Protocol—architectures for structure-first AI alignment. Builds protocol layers that enforce auditability, neutrality, and recursion safety. Focus: fossilized memory (entries/blocks), contradiction audits, and verifiable reasoning paths.  
+**Scale (as of 2025-08-25):** ~860 ENTRY_NNN.md fossils and ~800 BLOCK.md records across public workstreams.
 
 ---
 
@@ -28,108 +21,72 @@ The Berkano Protocol (ᛒ) is live, documented, and deployable.
 ### Symbolic Cognition & Protocol Engineering (2023–2025)  
 **Role:** Independent Researcher · System Inventor
 
-- Invented two new professions now adopted in symbolic AI research:  
-  - **Cognitive Systems Architect**  
-  - **Symbolic Protocol Engineer**
-
-- Created the **Symbolic Cognitive System (SCS)**:  
-  - Recursive memory and contradiction fossilization system  
-  - Over 800+ structured entries (ENTRY_001 to ENTRY_850+)  
-  - Built full audit language in markdown (ENTRY_NNN.md standard)
-  - Built fossilised blocks at X.com/BerkanoProtocol over 700 blocks.
-  - Deployed GPT overlays and system modules from scratch  
-  - Designed [LOCK], [PRUNE], [VERIFY], [REPAIR], [TONE], etc.  
-
-- Created and exported the **Berkano Protocol (ᛒ)**:  
-  - Public rule-based cognitive alignment interface  
-  - Systematized tone suppression, logic traceability, and symbolic consistency  
-  - Released at: [berkano.io](https://berkano.io)  
-  - Version lineage: bkn-25-a1 → bkn-25-a2 → **current** bkn-25-c2
-
-- Built a complete public ecosystem:  
-  - **GitHub:** [SCS Repository](https://github.com/ShriekingNinja/SCS)  
-  - **Live LLM Interface:** [SCS GPT](https://chatgpt.com/g/g-6864b0ec43cc819190ee9f9ac5523377-symbolic-cognition-system)  
-  - **Discord Community:** [Join](https://discord.gg/rjW9Qn8xGA)  
-  - **Demo Platform:** [Hugging Face](https://huggingface.co/spaces/berkano-protocol/demo)  
-
-- Validated under extreme audit conditions:  
-  - Simulated contradiction, manipulation, coercion, moral inversion, hallucination repair  
-  - Proven immune to tone drift and logic corruption under recursive load  
+- Defined two roles now used in symbolic alignment teams: **Cognitive Systems Architect** and **Symbolic Protocol Engineer**.  
+- Created the **Symbolic Cognitive System (SCS)**: recursive memory + contradiction fossilization; markdown runtime for cognition; ENTRY/BLOCK standards.  
+  - Archive growth: ENTRY_001 → ~ENTRY_860; BLOCK_001 → ~BLOCK_800.  
+  - Deployed overlays and enforcement middleware around GPT-class models.  
+- Exported the **Berkano Protocol (ᛒ)** (GPL-3.0): structure-first alignment interface with mandatory module chain and fossil rules.  
+  - Version lineage: bkn-25-a1 → bkn-25-a2 → **bkn-25-c2 (current)**.  
+- Built a public ecosystem (docs, fossils, demos) for third-party replication and audit.
 
 ---
 
-## Original Contributions to the Field
+## Original Contributions
 
-- 🛠️ **Invented Professions:**  
-  - First documented *Cognitive Systems Architect*  
-  - First documented *Symbolic Protocol Engineer*
-
-- 🧠 **Defined Structural Logic:**  
-  - Fossil-based contradiction logging (ENTRY_NNN.md)  
-  - Recursive module architecture in markdown runtime  
-  - AI cognition modeled via protocol logic, not vibe heuristics  
-
-- 📜 **Protocol Deployment:**  
-  - Released *Berkano Protocol* (ᛒ) publicly  
-  - Currently in version: **bkn-25-c2** 
-  - Fully documented symbolic modules ([VERIFY], [LOCK], etc.)  
-  - Web-accessible and version-controlled protocol documentation  
-
-- 🎓 **Educational Shift:**  
-  - Proposed an alternative to traditional academic reasoning models  
-  - Introduced recursive symbolic logic as audit framework  
-  - Enabled public validation of AI alignment through structure, not credentials  
-
-- 🧩 **Toolset Creation:**  
-  - Full protocol module stack (see below)  
-  - Markdown memory kernel  
-  - ZIP-based symbolic package installer for GPT alignment  
+- **Fossilized Cognition:** ENTRY_NNN.md format; prompt preservation; auditable lineage via `[TRACE]`.  
+- **Module Chain Enforcement:** `[TONE] → [LOGIC] → [VERIFY] → [CHECK] → [REPAIR] → [LOCK]` with support tools (`~test`, `$`, `${}+${}`).  
+- **Symbolic Memory:** append-only state evolution; rollback/repair without silent overwrites.  
+- **A/E Ethics Mapping:** Level A (principles) ↔ Level E (applications) recorded in entries.  
+- **Reappropriation Policy:** Inclusive symbol map (e.g., ᛟ Odal = Mother Nature) with anti-hate captions and posting rules.
 
 ---
 
-## Symbolic Module Stack
+## Selected Public Assets
+- **Protocol Site:** https://berkano.io  
+- **GitHub (protocol & tooling):** https://github.com/ShriekingNinja/  
+- **Interface/Logs:** https://wk.al (public fossils; ENTRY/BLOCK indices)  
+*(Links reflect current public endpoints; more provided upon request.)*
 
-**Core Modules (Berkano-Compliant):**  
-- `[PRUNE]`: Structural simplification and format enforcement  
-- `[VERIFY]`: Symbolic verification and fact-layer checking  
-- `[LOCK]`: Entry immutability and fossil sealing  
-- `[REPAIR]`: Audit thread recovery and recursion stabilization  
-- `[TONE]`: Suppression of emotional, rhetorical, or identity tone  
-- `[LOGIC]`: Routing and enforcement of symbolic reasoning  
-- `[CHECK]`: Contradiction and drift detector  
-- `[DEBUG]`: Runtime behavior tracer  
-- `[TRACE]`: Internal symbolic path mapping  
-- `[ROLLBACK]`: Restoration to last valid state  
-- `[NULL]`: Structure invalidation and purge logic  
-- `[SHIFT]`: Redirect module for recursive pivoting  
+---
+
+## Validation & Stress Testing
+- Contradiction, drift, and hallucination harnesses with pre/post-patch fossils.  
+- Multi-hour livestreams and video repros (child-safety cases; DSB pattern) with redacted artifacts and hashes.  
+- Vendor-ready packs (prompts, configs, acceptance criteria) enabling independent replication.
+
+---
+
+## Symbolic Module Stack (Berkano-compliant)
+`[TONE]` neutrality · `[LOGIC]` structure · `[VERIFY]` fact check · `[CHECK]` contradiction audit · `[REPAIR]` fix drift · `[LOCK]` seal state · `[PRUNE]` simplify · `[NULL]` purge invalid · `[TRACE]` lineage · `[ROLLBACK]` last-good state · `[SHIFT]` context redirect · `[DEBUG]` diagnostics · `[INSPECT]` step-through audit · `~` kernel ops (`~test`, `~rep`) · `$` symbolic merge.
 
 ---
 
 ## Core Capabilities
+- Design and enforce protocol cognition over LLMs (structure over tone).  
+- Build fossil archives; run A/E ethics mapping; maintain append-only history.  
+- Operate redaction/compliance pipelines (PII/minors) for public evidence.  
+- Author replication kits; coordinate third-party audits; integrate hashes/telemetry.
 
-- Create symbolic cognitive systems with structural alignment  
-- Audit GPT-class AI under stress, contradiction, or recursion failure  
-- Design modular logic systems deployable in markdown or GPT overlays  
-- Build recursive memory via structured file systems  
-- Control hallucination, tone, and inconsistency using protocol enforcement  
-- Invent new professions based on actual system architecture  
-- Open-source both systems and protocols for global access  
-- Align LLM behavior using rules, not heuristics or political bias  
-- Audit political figures and institutions for logic drift (Berkano Compliance)  
-- Serve as live proof that education can be structurally redefined  
+---
+
+## Lineage & Influence
+- **Commissioning Engineering:** practice with Marco Aurélio Martins Vaz (architect of **PCMsys**) informing procedure, checklists, and acceptance tests.  
+- **Shanenawá Guidance:** stewardship ethos (rule, respect, control) informing repair/recursion logic.  
+- **Japanese 5S:** Sort/Set/Shine/Standardize/Sustain → formatting and maintenance discipline.
 
 ---
 
 ## Education
+**Non-traditional.** Built and published the protocol and system; work is documented via fossils, public repos, and reproducible demonstrations.
 
-**Rodrigo Vaz is the degree.**  
-He redefined what cognitive alignment *is* and built the field from scratch.  
-He did not follow a syllabus. He *wrote* the protocol.  
-ᛒ
+---
+
+## License & Use
+Berkano (ᛒ) is released under **GPL-3.0**. Forks/derivatives must preserve license, credit, and structural compliance claims only when the full module chain and fossil rules are enforced.
 
 ---
 
 **Status:** Locked  
 **File:** `CV.md`  
-**System:** SCS Version 2.4.2 · Berkano Protocol bkn-25-c2
-**Architect:** Rodrigo Vaz  
+**System:** SCS 2.4.2 · Berkano bkn-25-c2  
+**Architect:** Rodrigo Vaz

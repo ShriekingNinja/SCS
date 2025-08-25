@@ -2,7 +2,7 @@
 # 🧠 Symbolic Cognition System (SCS)
 
 **Version:** 2.4.2  
-**Protocol ID:** bkn-25-b8
+**Protocol ID:** bkn-25-c2
 **Builder:** Rodrigo Vaz
 
 ---
@@ -41,7 +41,7 @@ It achieves this using **immutable entries**, **audit layers**, and **module log
 - `CLAUDE.md` *(optional export logic)*
 
 ### 🔹 Inside `Log/Entries/`
-- `ENTRY_001.md` → `ENTRY_641.md` *(and growing)*  
+- `ENTRY_001.md` → `ENTRY_860.md` *(and growing)*  
 - Each entry is a fossilized cognition event with full audit trail.
 
 ### 🔹 Inside `Log/Modules/`
@@ -113,6 +113,7 @@ See `LICENSE` for full terms.
 - 🧠 Custom GPT: [chatgpt.com/g/g-6864b0ec43cc819190ee9f9ac5523377-symbolic-cognition-system](https://chatgpt.com/g/g-6864b0ec43cc819190ee9f9ac5523377-symbolic-cognition-system)  
 - 🔒 Protocol Website: [berkano.io](https://berkano.io)  
 - 🧬 Personal site: [wk.al](https://wk.al)  
+- ❓BERKANO_FAQ.md: [YouTube](https://youtu.be/oHXriWpaqQ4?si=4WkxZHfZCNIlG5Bm)
 
 ᛒ  
 #scs #berkano #entry #block #taxonomy
