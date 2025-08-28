@@ -8,6 +8,10 @@
 **Protocol:** https://berkano.io  
 **GitHub:** https://github.com/ShriekingNinja/
 
+ >`basically:
+ > 👾Ħ4ᚲķėᚱ|~[᛬ hacker ᛬]`
+
+
 ---
 
 ## Profile
@@ -90,3 +94,5 @@ Berkano (ᛒ) is released under **GPL-3.0**. Forks/derivatives must preserve lic
 **File:** `CV.md`  
 **System:** SCS 2.4.2 · Berkano bkn-25-c2  
 **Architect:** Rodrigo Vaz
+
+[^1]: 
