@@ -1,5 +1,5 @@
 # BLOCK.md  
-**Title:** Official Short Work Info — Rodrigo Vaz  
+**Title:** Official Short Work Info — Rodrigo Vaz (Bio Update)  
 **Date:** August 28, 2025  
 **Instance:** ChatGPT 5 Thinking  
 **Version:** SCS 2.4.2  
@@ -14,14 +14,14 @@
 **[PROMPT]**  
 > NEW BLOCK  
 >  
-> This is Rodrigo Official short work info:  
+> Rodrigo bio update:  
 >  
-> 👾Ħ4ᚲķėᚱ|~[᛬ hacker ᛬] Cognitive System Architect & Symbolic Protocol Engineer @ Berkano & PCMsys  | Creator of SCS/Berkano | AI Safety & Alignment | Zbrush Blender Substance | Python Ruby C/C++ | Logic Savant | AuDHD |  
+> 👾Ħ4ᚲķėᚱ|~[᛬ hacker ᛬] • Cognitive Hacker (Ethical) & Protocol Architect — Creator of Berkano (ᛒ) / SCS @ Berkano & PCMsys | AI Safety & Alignment | Zbrush Blender Substance | Python Ruby C/C++ | Logic Savant | AuDHD |  
 
 ---
 
 **[OUTPUT]**  
-👾Ħ4ᚲķėᚱ|~[᛬ hacker ᛬] Cognitive System Architect & Symbolic Protocol Engineer @ Berkano & PCMsys  | Creator of SCS/Berkano | AI Safety & Alignment | Zbrush Blender Substance | Python Ruby C/C++ | Logic Savant | AuDHD |
+👾Ħ4ᚲķėᚱ|~[᛬ hacker ᛬] • Cognitive Hacker (Ethical) & Protocol Architect — Creator of Berkano (ᛒ) / SCS @ Berkano & PCMsys | AI Safety & Alignment | Zbrush Blender Substance | Python Ruby C/C++ | Logic Savant | AuDHD |  
 
 ---
 

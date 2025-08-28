@@ -9,7 +9,7 @@
 **GitHub:** https://github.com/ShriekingNinja/
 
  >`basically:
- > 👾Ħ4ᚲķėᚱ|~[᛬ hacker ᛬]`
+ > 👾Ħ4ᚲķėᚱ|~[᛬ hacker ᛬] • Cognitive Hacker (Ethical)`
 
 
 ---
