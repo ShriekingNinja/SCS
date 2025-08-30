@@ -765,7 +765,7 @@ It ensures that all fossilized records, freeform exchanges, and system replies a
 
 - **Symbolic Protocol Engineer** – Implements, tests, and maintains protocol rules/modules; enforces constraints, repairs drift, and keeps symbolic logic compliant at scale.  
 - **Cognitive System Architect** – Designs how the system processes, audits, and preserves logic.  
-- **Architect/Creator** – Originator and final authority over structure/compliance for the protocol/system. (Here: Rodrigo Vaz)  
+- **Architect/Creator** – Originator and final authority over structure/compliance for the protocol/system. (Here: Rodrigo Vaz, Cognitive Hacker)  
 - **Builder** – Author/maintainer who built the system and continues refining it.
 
 ---
