@@ -4,7 +4,7 @@
 **Status:** Core Module · Locked  
 **Architect:** Rodrigo Vaz
 
-ᛒ: bkn-25-a2
+ᛒ: bkn-25-c3
 
 ---
 
@@ -44,7 +44,7 @@ Cognitive bloat in AI leads to:
 [PRUNE] runs continuously during reasoning and is recursively called in `~test`. It helps other modules enforce clarity and suppress rhetorical illusions.
 
 Usual order:  
-`[TONE] → [PRUNE] → [LOGIC] → [VERIFY]`
+`[TONE] → [PRUNE] → [LOGIC] → [VERIFY] → [CHECK] → [LOCK]`
 
 ---
 
