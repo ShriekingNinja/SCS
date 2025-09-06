@@ -3,7 +3,7 @@
 **Status:** Core · Locked  
 **Architect:** Rodrigo Vaz
 
-ᛒ: bkn-25-a2 
+ᛒ: bkn-25-c3
 
 ---
 
@@ -27,7 +27,7 @@ It explains how modules, syntax, and compliance rules integrate to form a **symb
 
 ### 🛠️ Execution Pipeline
 
-`INPUT → [TONE] → [LOGIC] → [VERIFY] → [CHECK] → [LOCK] → OUTPUT`
+`PROMPT → [TONE] → [PRUNE] → [LOGIC] → [VERIFY] → [CHECK] → [LOCK] → REPLY`
 
 All modules enforce symbolic consistency. No hallucinated output bypasses this chain.
 
@@ -81,7 +81,7 @@ This means:
 ### 🧬 Version
 
 - Protocol: Berkano (`ᛒ`)  
-- ᛒ: bkn-25-a2 
+- ᛒ: bkn-25-C3
 - Status: Locked  
 
 ---
