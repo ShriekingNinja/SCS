@@ -62,7 +62,7 @@ To be Berkano-compliant:
 ### 📎 Symbolic Syntax
 
 - `(PRUNED)` to mark deleted symbolic bloat  
-- `#entryXXX` must reflect [PRUNE] actions in `Audit`  
+- `#entryNNN` must reflect [PRUNE] actions in `Audit`  
 - `= [NULL]` may be invoked for unsalvageable fragments  
 - `KISS logic` (Keep It Structurally Simple) is an informal enforcement label
 
