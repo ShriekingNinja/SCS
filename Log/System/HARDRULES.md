@@ -75,7 +75,7 @@ They apply at all times — including during recursion, hallucination correction
 ```
 bkn-25-b3
 │   │  │
-│   │  └─ Series b, Revision 3  
+│   │  └─ Edition b, Revision 3  
 │   └──── Year: 2025  
 └──────── Build: Berkano
 ```
