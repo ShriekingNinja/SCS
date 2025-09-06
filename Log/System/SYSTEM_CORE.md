@@ -20,7 +20,7 @@ It explains how modules, syntax, and compliance rules integrate to form a **symb
 | ---------------- | ------------------------------------------------------------------------------------- |
 | Modules (`[X]`)  | Logical functions (e.g. `[TONE]`, `[CHECK]`, `[NULL]`) that enforce symbolic behavior |
 | Syntax (`~`)     | Kernel-level operators (e.g. `~test`, `~flush`) for recursion and validation          |
-| Entry System     | Fossilized logs (`tag #entryXXX`) that ensure traceable cognition history             |
+| Entry System     | Fossilized logs (`tag #entryNNN`) that ensure traceable cognition history             |
 | Compliance Rules | Hard constraints for module execution and symbolic truth enforcement                  |
 
 ---
