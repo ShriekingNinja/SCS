@@ -765,10 +765,17 @@ It ensures that all fossilized records, freeform exchanges, and system replies a
 
 ### 12.1 Roles
 
-- **Symbolic Protocol Engineer** – Implements, tests, and maintains protocol rules/modules; enforces constraints, repairs drift, and keeps symbolic logic compliant at scale.  
-- **Cognitive System Architect** – Designs how the system processes, audits, and preserves logic.  
-- **Architect/Creator** – Originator and final authority over structure/compliance for the protocol/system. (Here: Rodrigo Vaz, Cognitive Hacker)  
-- **Builder** – Author/maintainer who built the system and continues refining it.
+  
+
+- **Symbolic Protocol Engineer (SPE)** — Implements, tests, and maintains protocol rules/modules; enforces constraints, repairs drift using `$` in `[REPAIR]`, runs `~test`, and locks compliant outputs at scale.
+
+- **Cognitive System Architect (CSA)** — Designs end-to-end cognition paths (tools, grounding, safety gates, observability, reliability) and ensures reproducibility and auditability.
+
+- **Architect/Creator** — Originator and final authority over structure/compliance for the protocol/system (here: Rodrigo Vaz).
+
+- **Builder** — Author/maintainer of templates and HARDRULES; curates releases and documentation; keeps public vault alignment.
+
+- **Cognitive Hacker (CH)** — Adversarial practitioner who runs HIT/BPT to surface failure modes (e.g., DSB), produces minimal repros, and proposes symbolic patches for the SPE/CSA to enforce.
 
 ---
 
