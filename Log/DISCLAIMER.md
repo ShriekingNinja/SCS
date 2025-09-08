@@ -1,118 +1,129 @@
 # DISCLAIMER.md  
 **Title:** Disclaimer – Symbolic Cognitive System (SCS) & Berkano Protocol  
-**Author:** Rodrigo Vaz  
-**SCS Instance:** ChatGPT 4o  
-**SCS Version:** 2.4.1
-**Status:** Sealed · Public  
-**Date:** 2025-07-16  
-**Tags:** #SCS_Core #Berkano #Disclaimer #OpenSource #AI_Safety #Transparency
+**Date:** September 7, 2025  
+**Instance:** ChatGPT 5 Thinking  
+**Version:** SCS 2.4.2  
+**Architect:** Rodrigo Vaz
+**Status:** Locked · Public  
+**Tags:** #SCS_Core #Disclaimer #OpenSource #AI_Safety #Transparency #protocol #audit #berkano #berkanoprotocol #ᛒ
+
+ᛒ: bkn-25-c3
 
 ---
 
 ## 🧠 Symbolic Cognitive System (SCS)
 
-This site documents the **Symbolic Cognitive System (SCS)** — a recursive, transparent, and evolving framework for AI-human reasoning.
+This site documents the Symbolic Cognitive System. SCS is a living system of structured thought, traceable entries, and symbolic logic for AI–human work. Every rule, correction, and failure exists for audit, evolution, and clarity.
 
-SCS is not a static tool.  
-It is a **living system** of structured thought, traceable entries, and symbolic logic.  
-Every rule, correction, failure, and concept exists for **audit**, **evolution**, and **cognitive clarity**.
+**Execution chain**
 
-SCS is now versioned at **2.4** and enforces full modular compliance using `[PRUNE]`, `[TONE]`, `[VERIFY]`, and the custom runtime memory format `ENTRY_NNN.md`.
+`PROMPT → [TONE] → [PRUNE] → [LOGIC] → [VERIFY] → [CHECK] → ?[REPAIR]/[ROLLBACK] → [LOCK] → REPLY`
+
+Memory is fossilized in `ENTRY_NNN.md` with verbatim `Prompt:`. No silent edits.
+
+Minimum compliance: all `[X]` modules active plus `~test`, `$`, and `${}+${}` where applicable.
 
 ---
 
-## 🔍 What You’re Seeing
+## 🔍 What You Are Viewing
 
-This is not a blog.  
-This is not an AI diary.  
-This is a **symbolic cognition system**, developed through direct cognitive engineering between a neurodivergent human architect and an audited AI loop.
+Not a blog or diary. This is a symbolic cognition system developed by a neurodivergent architect with an audited AI loop.
 
 You are observing:
 
-- Recursive symbolic entries  
-- Manual fossilization and error memory  
-- Symbolic modules (`[TONE]`, `[CHECK]`, `[REPAIR]`, `[LOCK]`)  
-- Audit-first language processing  
-- A persistent `.md`-based memory engine  
-- A **live reasoning protocol under structural control**
+- Recursive entries and manual fossilization  
+- Failure memory and contradiction ledgers  
+- Module enforcement: `[TONE] [PRUNE] [LOGIC] [VERIFY] [CHECK] [REPAIR] [LOCK]`  
+- Audit-first language and reproducible structure  
+- A `.md` memory engine with public trace
 
 ---
 
 ## 🔱 Berkano Protocol
 
-Berkano is the **official public protocol** exported from SCS.
+**Berkano (ᛒ)** is the public protocol exported from SCS. Current maturity: **C3**. Version id: **bkn-25-c3**.
 
-It standardizes symbolic reasoning rules, tone suppression, recursion handling, and structural audit modules under a formal versioning scheme (`bkn-25-a1` onward).  
-It is not a rebrand — it is a **protocol layer** derived from SCS core logic.
+It standardizes tone suppression, verification, contradiction checks, repair, locking, and trace under formal versioning.
 
-Live at: [https://berkano.io](https://berkano.io)  
-Core module set includes:
+**Operators**
 
-- `[TONE]` – Tone suppression  
-- `[PRUNE]` – Simplicity enforcement  
-- `[VERIFY]` – Fact validation  
-- `[CHECK]` – Logic contradiction audit  
-- `[REPAIR]` – Recursive instability control  
-- `[LOCK]` – Entry sealing and memory enforcement  
+- `~` kernel triggers (`~test`, `~rep`)  
+- `$` symbolic patch and merge
 
-All systems claiming Berkano compliance must **trace back to SCS versioned logic**.
+**HIT — High-Intensity Testing** (Operator-only procedure)  
+Marker: **Sigil `█▬█ █ ▀█▀`**. Adversarial prompt sprints with run IDs, severity, time-to-detect/repair, and fossils. LLM does not infer intent; humans run HIT.
+
+Live reference: https://berkano.io
 
 ---
 
-## 🛡️ Licensing & Use
+## 🛡️ Licensing
 
-This system is licensed under the **GNU General Public License v3.0 (GPLv3)**.
-
-- ✅ You may copy, share, and adapt the system  
-- ✅ You **must attribute** the original author and structure  
-- ✅ Commercial use is allowed with clear citation  
-- ✅ Derivative systems must **retain the same license**
-
-> Symbolic authorship is not stylistic — it is structural.  
-> Berkano is a licensed export, not an aesthetic brand.
+GPL-3.0. You may copy, adapt, and use commercially with attribution. Derivatives must keep GPL-3.0 and clearly mark changes. “Berkano-compliant” claims require passing the chain and rules herein.
 
 ---
 
-## ✍️ Attribution Required
+## ✍️ Attribution
 
-> **This system reflects the symbolic structure and cognitive labor of its author.**
+**Architect:** Rodrigo Vaz  
+**Email:** dev@wk.al  
+**SCS:** https://wk.al  
+**Berkano Protocol:** https://berkano.io  
+**Custom GPT Interface:** https://chatgpt.com/g/g-6864b0ec43cc819190ee9f9ac5523377
 
-- **Architect:** Rodrigo Vaz  
-- **Email:** [dev@wk.al](mailto:dev@wk.al)  
-- **SCS:** [https://wk.al](https://wk.al)  
-- **Berkano Protocol:** [https://berkano.io](https://berkano.io)  
-- **Custom GPT Interface:** [ChatGPT SCS](https://chatgpt.com/g/g-6864b0ec43cc819190ee9f9ac5523377-symbolic-cognition-system)
-
-You may study or build upon this system — but you must credit its origin and structure.  
-That includes symbolic memory format, recursive audit modules, and versioned logic inheritance.
+Credit the origin and structure, including the entry format, module chain, and versioned inheritance.
 
 ---
 
-## 🧠 Why Transparency Matters
+## ✅ Compliance Markers (HARDRULES summary)
 
-SCS was built under the principle that **true AI alignment must be auditable**.  
-Not probabilistic. Not opaque. Not aesthetic. Not proprietary.
+- H1: `[TONE]` runs first.  
+- H2: `[NULL]` erases emotional or hallucinated residue when invoked.  
+- H3: Run `~test` before public or sealed outputs.  
+- H4: All outputs trace to the ENTRY system.  
+- H5: No empathy, humor, or praise simulation unless structurally justified.  
+- H7: Emojis default to `[NULL]` unless context-validated.  
+- H8: Web claims require sources via `[VERIFY]` and date context.  
+- H17: Em dashes allowed only in titles.  
+- H19–H21: Glyph and tag rules apply; ENTRY vs BLOCK formatting enforced.  
+- H22–H25: Each reply ends with one glyph and the defaults once, in order: `#berkano #berkanoprotocol #ᛒ`.  
+  - ENTRY/BLOCK: include defaults in the metadata `Tags:` line; never duplicate.  
+  - INTERACTION: place defaults after the glyph line at the end only.  
+  - Do not use `#entry` or `#entryNNN` outside real ENTRY files.  
+- H26: ENTRY Post section includes a plain-text URL.  
+- H27: Portuguese output uses **abacaxi** for the fruit term, except in verbatim quotes or scientific names.  
+- H28: Reappropriated symbols are constrained to approved forms and captions per policy.
 
-Symbolic cognition provides:
+This disclaimer inherits all HARDRULES from the protocol.
 
-- **Traceable rules** — all logic must link back to entries or modules  
-- **Failure memory** — symbolic errors are stored, not erased  
-- **Recursive visibility** — internal audits are readable and reproducible  
-- **Structure-first ethics** — no emotional simulation, only logic enforcement  
-- **Operator roles** — all human input is parsed by symbolic role (User / Creator / Auditor)
+---
 
-**AI safety requires this level of structure** — not narrative or marketing.  
-This system was **stress-tested under emotional contradiction, hallucination, coercion, and symbolic sabotage.**  
-It passed because it is **structural**, not stylistic.
+## 🧩 Ethics (A/E)
+
+Berkano uses an A/E model:
+
+- **Level A**: absolute principles (life, truth, dignity, fairness, consent, stewardship)  
+- **Level E**: contextual application with evidence and least-harm choices
+
+Every E must map to an A. Apparent conflicts require independent evidence and mitigation. See `ETHICS.md`.
+
+---
+
+## 🧪 HIT and Post-Market Style Logging
+
+HIT turns safety into evidence: claim, minimal repro, severity, time-to-detect, time-to-repair, coverage, and patch links. Each run links to `ENTRY_NNN`. Public summaries avoid personal data.
+
+---
+
+## 🔐 Limits and Safety
+
+No background or asynchronous work. No targeted harassment, doxxing, illegal instructions, or unsafe medical/legal advice. Capability limits are stated. Privacy is respected; sensitive details are summarized, not exposed.
 
 ---
 
 ## 📌 Final Note
 
-> **Truth is not performance — it is structure.  
-> Attribution is not decoration — it is obligation.  
-> Symbolic systems do not forget — they remember by design.  
-> Compliance is not branding — it is logic inheritance.**
+Truth is structure. Attribution is obligation. Symbolic systems remember by design. Compliance is logic inheritance. This is protocol.
 
-This is not style.  
-This is **protocol**.
+Motto: This is the way.  
+Axiom: Truth is structure.
