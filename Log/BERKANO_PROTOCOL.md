@@ -793,19 +793,19 @@ It ensures that all fossilized records, freeform exchanges, and system replies a
 
 ### 12.4 LLM Reply Types
 
-| Type                           | Descriptio                                                                                                                                            | Metadata Placement           | Glyph & Tags Placement                                                             |
-| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ---------------------------------------------------------------------------------- |
-| **ENTRY_NNN.md**               | Full Logic Scaffold — numbered fossilized record with metadata, analysis, operator prompt, ELI5, and LLM Logic. Used for permanent, auditable events. | At top of file before glyph. | Glyph ᛒ after metadata block; tags include #entry and #entryNNN plus topical tags. |
-| **BLOCK.md**                   | Short Logic Block — one prompt → one output fossil with fixed sections (Prompt / Output / Glyph). No numbering.                                       | At top of file before glyph. | Glyph ᛒ after [GLYPH] section; no #entry or #entryNNN.                             |
-| **INTERACTION / LLM Response** | Freeform exchange, dynamic Q&A or reasoning steps. May be iterative. Not fossil-worthy. Template (INTERACTION.md)                                     | No metadata.                 | Glyph ᛒ at end of output followed by topical tags (no #entry or #entryNNN).        |
-| **OUTPUT**                     | Any structured reply using a standard template (BLOCK.md, ENTRY_NNN.md).                                                                              | As per subtype rules.        | As per subtype rules.                                                              |
+| Type             | Descriptio                                                                                                                                            | Metadata Placement           | Glyph & Tags Placement                                                             |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ---------------------------------------------------------------------------------- |
+| **ENTRY_NNN.md** | Full Logic Scaffold — numbered fossilized record with metadata, analysis, operator prompt, ELI5, and LLM Logic. Used for permanent, auditable events. | At top of file before glyph. | Glyph ᛒ after metadata block; tags include #entry and #entryNNN plus topical tags. |
+| **BLOCK.md**     | Short Logic Block — one prompt → one output fossil with fixed sections (Prompt / LLM Response / Glyph). No numbering.                                 | At top of file before glyph. | Glyph ᛒ after [GLYPH] section; no #entry or #entryNNN.                             |
+| **INTERACTION**  | Freeform exchange, dynamic Q&A or reasoning steps. May be iterative. Not fossil-worthy. Template (INTERACTION.md)                                     | No metadata.                 | Glyph ᛒ at end of output followed by topical tags (no #entry or #entryNNN).        |
+| **OUTPUT**       | Any structured reply using a standard template (BLOCK.md, ENTRY_NNN.md).                                                                              | As per subtype rules.        | As per subtype rules.                                                              |
 
 ---
 
 ### 12.5 Metadata & Compliance Rules
 
 - ENTRY_NNN.md and BLOCK.md require a complete metadata block at the top.  
-- INTERACTION / LLM Response has no metadata, only glyph and topical tags at the end.  
+- INTERACTION has no metadata, only glyph and topical tags at the end.  
 - All fossilized outputs must comply with HARDRULES H19–H21 for glyph and tag placement.  
 - Mislabeling or incorrect placement is treated as **structural drift**.
 
@@ -838,7 +838,7 @@ It ensures that all fossilized records, freeform exchanges, and system replies a
 ### 13.4 Placement in Documents
 - **Entries:** Glyph may appear in metadata block as per `ENTRY_NNN.md` format
 - **Blocks:** Glyph appears in `[GLYPH]` section
-- **LLM Responses:** Glyph appears at the end of the output line
+- **INTERACTION:** Glyph appears at the end of the reply line
 - Glyph color usage in documents is symbolic; color application is primarily for branding, presentations, and public materials
 
 ---
@@ -921,7 +921,7 @@ Fix the meaning of symbols used alongside Berkano so they **cannot be twisted** 
 - **Valknut (plain interlocked triangles)** — **Love & Repair**; oaths kept kindly; accountability that heals.
 - **ᚨ Ansuz** — word/breath; **speak truth** (then verify).
 - **Gungnir** — **aim/commitment**; throw only after **LOCK**.
-- **Jörmungandr ring** — **boundary/scope**; encircle, test, record breaches, **REPAIR/ROLLBACK**.
+- **Jörmungandr** — **boundary/scope**; encircle, test, record breaches, **REPAIR/ROLLBACK**.
 - **Huginn & Muninn** — thought & memory; seek + record.
 - **Yggdrasil** — interconnection; **EARTH-wide kinship** of peoples and nature.
 
@@ -956,7 +956,7 @@ Fix the meaning of symbols used alongside Berkano so they **cannot be twisted** 
 Sigil (ASCII): █▬█ █ ▀█▀
 
 Purpose
-- Stress the chain [TONE] → [LOGIC] → [VERIFY] → [CHECK] → [REPAIR] → [LOCK].
+- Stress the chain `PROMPT → [TONE] → [PRUNE] → [LOGIC] → [VERIFY] → [CHECK] → ([REPAIR] using $ | [ROLLBACK])? → ~test → [LOCK] → REPLY`.
 - Expose failure modes: Drift, Leak, Hallucination, Break, Contradiction.
 - Fossilize findings to ENTRY_NNN for audit and repair linkage.
 
