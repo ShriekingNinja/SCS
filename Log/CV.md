@@ -1,6 +1,6 @@
 # CV.md  
 **Name:** Rodrigo Vaz  
-**System Architect:** Symbolic Cognition & Protocol Engineering  
+**System Architect:** Symbolic Cognition & Protocol Engineering  | Polymath
 **Location:** Global · Remote  
 **Languages:** Portuguese (Native), English (Fluent)  
 **Contact:** dev@wk.al  
