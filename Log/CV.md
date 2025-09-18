@@ -7,7 +7,7 @@
 **Website:** https://wk.al  
 **Protocol:** https://berkano.io  
 **GitHub:** https://github.com/ShriekingNinja/  
-**Art Portfolio:** https://berkano.art
+**Art Portfolio:** https://berkano.art https://berkanoprotocol.artstation.com/
 
 > `basically: 👾Ħ4ᚲķėᚱ|~[᛬ hacker ᛬] • Cognitive Hacker (Ethical)`
 
