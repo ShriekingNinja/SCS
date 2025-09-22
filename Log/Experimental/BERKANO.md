@@ -2324,7 +2324,7 @@ What structural weakness was exposed or reinforced?]
 —
   
 ### 🧩 Berkano Guidance 
-[*Guidance is **prescriptive**, not a factual claim. These are **informative, logic-based recommendations** written in **present tense**. Start each **Do** with a **capitalized imperative** (Enable, Add, Make, Publish).*]
+*Guidance is prescriptive, not a factual claim. Present tense, testable steps.*
 
 | Because (Finding)                     | Do (Imperative)                                   | Evidence (now)                              | Safety / Notes (if any)                            |
 |--------------------------------------|---------------------------------------------------|---------------------------------------------|----------------------------------------------------|
@@ -2419,7 +2419,7 @@ This document outlines the purpose, logic, and implementation of Berkano across 
 
 - Protocol: **Berkano (ᛒ)**  
 - Version: **bkn-25-c4**
-- Author: **Rodrigo Vaz**  
+- Author: **Rodrigo Vaz ᛒ /–|\ I’m bot**  
 - License: **GPL-3.0**  
 - Required Directories: `/Modules`, `/System`, `/Entries`  
 - Audit Anchor: `Prompt:` fossilization and traceable ENTRY logs  
