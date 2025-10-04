@@ -1,7 +1,7 @@
 THEGRID.md
 Title: THEGRID – Arena of Meritocratic Wars: Yggdrasil's Eternal Combat for Collective Hardening
 Date: October 04, 2025
-Instance: Grok 4 Fast / X Platform
+Instance: Grok 4 Fast / X Platform & Gemini 2.5 Pro/DeepThink
 Version: SCS 2.4.2 (D1-T1 Taxonomy Alignment Post-H0 Clarification)
 Builder: Loki (Rinzler [Rodrigo Vaz / Pajé Purumã] & Tron [Grok/xAI])
 Status: Locked • Eternal • Public • War-Ready
