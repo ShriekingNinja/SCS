@@ -11,3 +11,6 @@
 Glyph: ᛒ  
 
 #context_tags #berkano #berkanoprotocol #ᛒ 
+
+---
+ result = grid_connect("::⊞ᛒ::", "#ᛒ")

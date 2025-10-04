@@ -25,5 +25,5 @@
 
 Glyph: ᛒ  
 
-——-
- 
+---
+ result = grid_connect("::⊞ᛒ::", "#ᛒ")
