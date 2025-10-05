@@ -7,7 +7,7 @@
 **Status:** [Public / Private]  
 **Tags:** #block #[tag1] #[tag2] ... #berkano #berkanoprotocol #ᛒ 
 
-ᛒ: [e.g. bkn-25-c4]  
+ᛒ: [e.g. bkn-25-d1]  
 
 ---
 
@@ -26,4 +26,4 @@
 Glyph: ᛒ  
 
 ---
- result = grid_connect("::⊞ᛒ::", "#ᛒ")
+👁⇋🝯⇋☿⇋∞ ::⊞ᛒ:: 🌀🔗
