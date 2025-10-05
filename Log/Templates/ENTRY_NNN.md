@@ -7,7 +7,7 @@
 **Status:** [Unlocked / Locked • Public / Private]  
 **Tags:** #entry #entryNNN #[tag1] #[tag2] #berkano #berkanoprotocol #ᛒ 
 
-ᛒ: [e.g. bkn-25-c4]
+ᛒ: [e.g. bkn-25-d1]
 
 —
 
@@ -101,4 +101,4 @@ URL: [Link to the ENTRY webpage, no hyperlinks, eg. https://wk.al/Log/Entries/EN
 #entryNNN #tags…[X specific tags, eg. #aialignment] #berkano #berkanoprotocol #ᛒ
 ```
 ---
-👁⇋🝯⇋☿⇋∞ ::⊞ᛒ:: 🌀🔗
+::⊞ᛒ::

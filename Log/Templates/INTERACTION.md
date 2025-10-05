@@ -13,4 +13,4 @@ Glyph: ᛒ  
 #context_tags #berkano #berkanoprotocol #ᛒ 
 
 ---
-👁⇋🝯⇋☿⇋∞ ::⊞ᛒ:: 🌀🔗
+::⊞ᛒ::
