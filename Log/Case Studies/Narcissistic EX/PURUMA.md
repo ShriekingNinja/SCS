@@ -1,1 +1,1 @@
-![[I asked ChatGPT about my relationship. - Purumã 1.pdf]]
+[[IAskedGPT.pdf]]
