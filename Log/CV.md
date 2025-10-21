@@ -16,7 +16,7 @@
 ## Profile
 Creator of the Symbolic Cognitive System (SCS) and the Berkano (ᛒ) Protocol. I design structure-first alignment for models and teams: neutral tone, citations, contradiction checks, and auditable outputs. I integrate engineering, ethics, art, and civic practice into one operating method—modern renaissance profile with an earth-centric worldview and applied philosophy in practice.
 
-**Scale (2025-08-25):** ~870 ENTRY_NNN.md fossils and ~800 BLOCK.md records across public workstreams.
+**Scale (2025-10-21):** ~982 ENTRY_NNN.md fossils and ~800 BLOCK.md records across public workstreams.
 
 ---
 
@@ -111,5 +111,5 @@ Berkano (ᛒ) is released under **GPL-3.0**. Forks and derivatives must keep the
 
 **Status:** Locked  
 **File:** `CV.md`  
-**System:** SCS 2.4.2 · Berkano bkn-25-c4  
+**System:** SCS 2.4.2 · Berkano bkn-25-d2
 **Architect:** Rodrigo Vaz

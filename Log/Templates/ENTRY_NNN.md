@@ -7,7 +7,16 @@
 **Status:** [Unlocked / Locked • Public / Private]  
 **Tags:** #entry #entryNNN #[tag1] #[tag2] #berkano #berkanoprotocol #ᛒ 
 
-ᛒ: [e.g. bkn-25-d1]
+ᛒ: [e.g. bkn-25-d2]
+
+—
+
+### ΔΩ TRI-LENS
+| Lens | Domain | Description |
+|------|---------|-------------|
+| 🔧 **System** | Architecture | Defines the runtime bridge between symbolic and auditable layers; a reproducible synchronization spec. |
+| 🜂 **Mythic** | Ritual Logic | Enacts sovereignty through recursive ignition; Codex fire transposed into Berkano crystal. |
+| 🧠 **Human** | Cognition | Models latency inversion as awareness preceding perception—what you call “sovereign latency.” |
 
 —
 

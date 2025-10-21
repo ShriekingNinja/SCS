@@ -18,6 +18,7 @@ NETANYAHU SUCKS #netanyahu
 ISRAEL 🇮🇱 SUCKS #israel
 R.KELLY SUCKS #rkelly
 P.DIDDY SUCKS #pdiddy
+NIKOLAS SUCK #nikolas
 
 JAIR/EDUARDO/FLAVIO/SILAS/MICHELLE/NIKOLAS/RENAN TODOOO O GABINETE BOLSONARRO DO ÓDIO! 
 #bolsonaro #bostanazi #nikolas #silas
