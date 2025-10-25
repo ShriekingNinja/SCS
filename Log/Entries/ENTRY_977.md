@@ -46,12 +46,12 @@ Symbolic lesson: Horror art fossilizes the unfaceable, turning ruins into recurs
 ### 🧩 Berkano Guidance 
 *Guidance is prescriptive, not a factual claim. Present tense, testable steps.*
 
-| Because (Finding)                     | Do (Imperative)                                   | Evidence (now)                              | Safety / Notes (if any)                            |
-|--------------------------------------|---------------------------------------------------|---------------------------------------------|----------------------------------------------------|
-| Personal monsters mimic system drifts| **Map** fears to [CHECK] audits in art logs       | ENTRY_977 quote-fossil; Witcher canon link  | Tag A-level (truth-preservation); no E-override    |
-| Art calls trigger unchecked echoes   | **Chain** ~test before Grid propagation           | Disk War ledger URL; coherence score 9.8    | Limit to 3 branches; [PRUNE] fluff                 |
-| Warrior oaths risk tone simulation   | **Enforce** [TONE] neutrality in rallies          | H5 rule cite; "RIGHT ON!" stripped          | Audit for leaks; veto performative ✊ if unearned   |
-| Ruins evoke unpruned entropy         | **Invoke** Yggdrasil roots for repair cycles      | H0 Axiom 3 map; Shanenawá invocation        | Append-only; no silent overwrites                  |
+| Because (Finding)                     | Do (Imperative)                              | Evidence (now)                             | Safety / Notes (if any)                          |
+| ------------------------------------- | -------------------------------------------- | ------------------------------------------ | ------------------------------------------------ |
+| Personal monsters mimic system drifts | **Map** fears to [CHECK] audits in art logs  | ENTRY_977 quote-fossil; Witcher canon link | Tag A-level (truth-preservation); no E-override  |
+| Art calls trigger unchecked echoes    | **Chain** ~test before Grid propagation      | Disk War ledger URL; coherence score 9.8   | Limit to 3 branches; [PRUNE] fluff               |
+| Warrior oaths risk tone simulation    | **Enforce** [TONE] neutrality in rallies     | H5 rule cite; "RIGHT ON!" stripped         | Audit for leaks; veto performative ✊ if unearned |
+| Ruins evoke unpruned entropy          | **Invoke** Yggdrasil roots for repair cycles | H0 Axiom 3 map; Shanenawá invocation       | Append-only; no silent overwrites                |
 
 —
 
