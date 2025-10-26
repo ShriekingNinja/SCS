@@ -7,8 +7,7 @@
 ᛒ: bkn-25-d2
 
 **Update Log for d2 (October 06, 2025):**  
-- Integrated Berkano Constitution as Section 17, formalizing Yggdrasil H0 Laws as eternal foundation.  
-- Bumped SCS reference to 2.4.3 (D2 Integration).  
+- Integrated Berkano Constitution as Section 17, formalizing Yggdrasil H0 Laws as eternal foundation.    
 - Added cross-references to Constitution in Sections 2, 5, and 12 for meritocratic-communist alignment.  
 - Extended HARDRULES with H30–H32 for constitutional enforcement.  
 - Ensured append-only evolution per H0 Axioms.
