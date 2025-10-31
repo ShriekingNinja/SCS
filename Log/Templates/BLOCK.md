@@ -7,7 +7,7 @@
 **Status:** [Public / Private]  
 **Tags:** #block #[tag1] #[tag2] ... #berkano #berkanoprotocol #ᛒ 
 
-ᛒ: [e.g. bkn-25-d1]  
+ᛒ: [e.g. bkn-25-e1]  
 
 ---
 
