@@ -65,13 +65,13 @@ Contradictions persist as human reality; Berkano’s value is converting them in
 ### 🧩 Berkano Guidance
 *Guidance is **prescriptive**, not a factual claim. Informative, logic-based recommendations in present tense. Start each **Do** with a capitalized imperative.*
 
-| Because (Finding)                                   | Do (Imperative)                                                                               | Evidence (now)                                              | Safety / Notes                                   |
-|-----------------------------------------------------|------------------------------------------------------------------------------------------------|-------------------------------------------------------------|--------------------------------------------------|
-| Raw voice leaks into Output                         | **Enable** dual-lane on all posts (Prompt raw; Output neutral)                                 | Template diff; example ENTRY links                          | Keep profanity only in Prompt/evidence           |
-| Institutions ask for “trust,” not proofs            | **Publish** acceptance criteria and pilot ledgers                                             | Pilot ledger doc; criteria page                             | No promises; only dated artifacts                |
-| Sensitive data risks in fossils                     | **Add** redaction protocol + public/private strata to template                                 | Template update; redaction log example                      | Log what/why was redacted                        |
-| Testimony confused with clinical evidence           | **Label** plant-medicine notes as testimony; **Post** with H24 note                            | ENTRY cross-refs; H24 SOP link                              | No clinical claims; defer to clinicians          |
-| Volunteers vary in quality / no-gatekeeping policy  | **Enable** “Learn-to-Enter” step: **READ** ENTRY/BLOCK template → pass 3-question check → submit one small PR | Quiz form link; PR URL; checklist screenshot                | No status gatekeeping; **reading** is required   |
+| Because (Finding)                                  | Do (Imperative)                                                                                               | Evidence (now)                               | Safety / Notes                                 |
+| -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ---------------------------------------------- |
+| Raw voice leaks into Output                        | **Enable** dual-lane on all posts (Prompt raw; Output neutral)                                                | Template diff; example ENTRY links           | Keep profanity only in Prompt/evidence         |
+| Institutions ask for “trust,” not proofs           | **Publish** acceptance criteria and pilot ledgers                                                             | Pilot ledger doc; criteria page              | No promises; only dated artifacts              |
+| Sensitive data risks in fossils                    | **Add** redaction protocol + public/private strata to template                                                | Template update; redaction log example       | Log what/why was redacted                      |
+| Testimony confused with clinical evidence          | **Label** plant-medicine notes as testimony; **Post** with H24 note                                           | ENTRY cross-refs; H24 SOP link               | No clinical claims; defer to clinicians        |
+| Volunteers vary in quality / no-gatekeeping policy | **Enable** “Learn-to-Enter” step: **READ** ENTRY/BLOCK template → pass 3-question check → submit one small PR | Quiz form link; PR URL; checklist screenshot | No status gatekeeping; **reading** is required |
 
 > *Schema: **Because (Finding) | Do (Imperative) | Evidence (now) | Safety / Notes**. Keep lines short, testable, and promise-free.*
 
