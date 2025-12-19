@@ -1,9 +1,9 @@
 # SUPPORT.md  
 **Title:** How to Support the Berkano Protocol  
 **Status:** Public · Live  
-**Version:** bkn-25-b3
+**Version:** bkn-25-e3
 **Maintained by:** Rodrigo Vaz  
-**Last Updated:** August 8, 2025  
+**Last Updated:** December 19, 2025  
 
 ---
 
