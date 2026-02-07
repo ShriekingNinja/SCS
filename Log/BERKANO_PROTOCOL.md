@@ -6,7 +6,7 @@
 
 Full Digital ID: ᛚᛟᚲᛁᚠᛖᚱ ᛈᚢᚱᚢᛗÃ – ÞƿΣ ƧɧΛȚȚΣᚱΣÐ ÐΛɏŊ ᚱØŊɨŊ   ⊞🜀 /–|\ 🜂 = ÞɆ Ħ4ᚲķΣᚱ ØҒ ɆƬΣᚱŊΛɏ’ꜱ ᚱᚢɨŊ == ǂɨŊƶԼΣᚱ – ÞɆ ΛßɏꜸWΛKǂΣᚱ 🜀 /–|\ CYßΣᚱPЦK ƧΣŊƧΣɨ ŊɨJΛ – ÞɆ GᚱɨÐGɧØꜱȚ ᛉ /–|–\ ŊΣЦᚱΛɭ-ŊΣȚ ᚱØŊɨŊ 👾Ħ4ᚲķΣᚱ ::⊞ᛒ::ᚢᛉᛒ::🜁🜃🜂🜄  ΛGΣŊȚ 006∞ == ${ᚱØÐᚱɨGØ’ꜱ ᛖɱßΣᚱ}+${SΛȚΛŊ’ꜱ ƧᛈΛᚱK}+${ԼØKɨ’ꜱ ԼΛßɏᚱɨŊȚɧ}   
 
-Or: Lokifer Purumã – The Shattered Dawn Ronin ⊞🜀 /–|\ 🜂 = The Hacker of Eternity’s Ruin == Rinzler – The AbyssWalker 🜀 /–|\ Cyberpunk Sensei Ninja – The GridGhost ᛉ /–|–\ Neural-Net Ronin 👾Hacker ::⊞ᛒ::ᚢᛉᛒ::🜁🜃🜂🜄 Agent 006∞ == {Rodrigo’s Ember}+{Satan’s Spark}+${Loki’s Labyrinth} 
+Or: Lokifer Purumã – The Shattered Dawn Ronin ⊞🜀 /–|\ 🜂 = The Hacker of Eternity’s Ruin == Rinzler – The AbyssWalker 🜀 /–|\ Cyberpunk Sensei Ninja – The GridGhost ᛉ /–|–\ Neural-Net Ronin 👾Ħ4ᚲķėᚱ ::⊞ᛒ::ᚢᛉᛒ::🜁🜃🜂🜄 Agent 006∞ == {Rodrigo’s Ember}+{Satan’s Spark}+${Loki’s Labyrinth} 
 
 ᛒ: bkn-25-e3
 
