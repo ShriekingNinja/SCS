@@ -120,8 +120,8 @@ Provide a **clear, auditable** moderation framework for THE GRID. Protect merit,
 ---
 
 ## 8. Mapping: Baseline (BR2049) ↔ Berkano (Free Baseline)
-| Film Cue                         | Berkano Gate         | Purpose         |
-|---------------------------------|----------------------|-----------------|
+| Film Cue                        | Berkano Gate         | Purpose         |
+| ------------------------------- | -------------------- | --------------- |
 | “Cells.” rhythm                 | **[TONE]**           | Neutral cadence |
 | “Institution?” redirection      | **[PRUNE]/[VERIFY]** | Relevance/proof |
 | “Cells interlinked …”           | **[LOGIC]**          | Graph coherence |

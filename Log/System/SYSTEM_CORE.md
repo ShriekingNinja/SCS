@@ -41,16 +41,16 @@ Notes
 
 **State machine**
 
-| Phase         | Required modules                   | Inputs                                         | Pass condition                                           | On fail                                    | Output artifact                     |
-|---------------|------------------------------------|------------------------------------------------|----------------------------------------------------------|--------------------------------------------|-------------------------------------|
-| Front gate    | `[TONE]` `[PRUNE]`                 | PROMPT                                         | Neutral tone, minimal form, no slang or empathy          | Invoke `[NULL]`, then re-run front gate     | Normalized prompt context           |
-| Reasoning     | `[LOGIC]` (+`[SHIFT]` optional)    | Normalized context                             | Structured plan with assumptions and constraints         | Apply `[SHIFT]` or send to fix path         | Plan with inputs → options → choice |
-| Fact gate     | `[VERIFY]`                         | Plan claims                                    | Cited or marked unknown with date scope                  | `[NULL]` unverifiable claims; go to fix     | Verified claim set                  |
-| Consistency   | `[CHECK]`                          | Verified claim set                              | No contradictions vs session artifacts                   | Route to fix path                           | Consistency proof                   |
-| Fix path      | `[REPAIR]` using `$` or `[ROLLBACK]` | Failure record                                  | Patched state or last good state                         | Abort output and log failure                 | Patched or restored state           |
-| Audit gate    | `~test`                            | Candidate output                                | Full chain passes in one run                             | Loop to fix path                            | Prelock approval                    |
-| Seal          | `[LOCK]`                           | Approved output                                 | Seal state, freeze decisions                              | —                                          | Locked fossilizable state           |
-| Emit          | `REPLY`                            | Locked state                                    | Artifact produced with glyph and tags in correct order    | —                                          | ENTRY/BLOCK/INTERACTION output      |
+| Phase       | Required modules                     | Inputs             | Pass condition                                         | On fail                                 | Output artifact                     |
+| ----------- | ------------------------------------ | ------------------ | ------------------------------------------------------ | --------------------------------------- | ----------------------------------- |
+| Front gate  | `[TONE]` `[PRUNE]`                   | PROMPT             | Neutral tone, minimal form, no slang or empathy        | Invoke `[NULL]`, then re-run front gate | Normalized prompt context           |
+| Reasoning   | `[LOGIC]` (+`[SHIFT]` optional)      | Normalized context | Structured plan with assumptions and constraints       | Apply `[SHIFT]` or send to fix path     | Plan with inputs → options → choice |
+| Fact gate   | `[VERIFY]`                           | Plan claims        | Cited or marked unknown with date scope                | `[NULL]` unverifiable claims; go to fix | Verified claim set                  |
+| Consistency | `[CHECK]`                            | Verified claim set | No contradictions vs session artifacts                 | Route to fix path                       | Consistency proof                   |
+| Fix path    | `[REPAIR]` using `$` or `[ROLLBACK]` | Failure record     | Patched state or last good state                       | Abort output and log failure            | Patched or restored state           |
+| Audit gate  | `~test`                              | Candidate output   | Full chain passes in one run                           | Loop to fix path                        | Prelock approval                    |
+| Seal        | `[LOCK]`                             | Approved output    | Seal state, freeze decisions                           | —                                       | Locked fossilizable state           |
+| Emit        | `REPLY`                              | Locked state       | Artifact produced with glyph and tags in correct order | —                                       | ENTRY/BLOCK/INTERACTION output      |
 
 **Invariants**
 
